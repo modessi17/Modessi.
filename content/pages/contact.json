@@ -1,0 +1,44 @@
+{
+  "heading": "Request a Free Quote",
+  "subheading": "Let's Build Something Together",
+  "description": "We offer a free in-home consultation and personalized estimate. Serving Windsor, Lakeshore, Tecumseh, and LaSalle in Southwestern Ontario.",
+  "benefits": [
+    {
+      "id": "b1",
+      "text": "Free in-home consultation"
+    },
+    {
+      "id": "b2",
+      "text": "Detailed labour & material estimate"
+    },
+    {
+      "id": "b3",
+      "text": "Fully insured, bonded & licensed"
+    },
+    {
+      "id": "b4",
+      "text": "Stress-free process from start to finish"
+    }
+  ],
+  "hoursHeading": "Business Hours",
+  "hours": [
+    {
+      "id": "h1",
+      "day": "Monday – Friday",
+      "time": "8:30 AM – 5:30 PM"
+    },
+    {
+      "id": "h2",
+      "day": "Saturday",
+      "time": "10:00 AM – 2:00 PM"
+    },
+    {
+      "id": "h3",
+      "day": "Sunday",
+      "time": "Closed"
+    }
+  ],
+  "phone": "519-556-8217",
+  "successHeading": "Thank You",
+  "successMessage": "We've received your request and will be in touch shortly."
+}

@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "title": "Bathroom Renovations",
+      "description": "Complete bathroom transformations — from tile and fixtures to full gut-and-rebuild. We handle every detail with precision and care.",
+      "id": "o6WPIbTkqR28H5-fVNz4i"
+    },
+    {
+      "title": "General Contracting",
+      "description": "Full-service general contracting for residential projects. Fully insured, bonded, and licensed in Southwestern Ontario.",
+      "id": "qsYFiqCyzwoIpwhgtUnRv"
+    },
+    {
+      "title": "Custom Spaces",
+      "description": "Bespoke design and build for unique spaces. We work closely with you to bring your vision to life with quality craftsmanship.",
+      "id": "8EOKRC0kzTLOrAb_OC0Qh"
+    },
+    {
+      "title": "Free In-Home Consultation",
+      "description": "We come to you. Our free consultation includes a thorough assessment and a personalized estimate with detailed labour and material costs.",
+      "id": "3574vpZFy3BCBi3UQOrbP"
+    },
+    {
+      "title": "Project Management",
+      "description": "Stress-free process from start to finish — ordering, scheduling, and on-the-job coordination handled professionally.",
+      "id": "uVU-hY3wA8p7T_WKL_PnD"
+    },
+    {
+      "title": "Civil Engineering Expertise",
+      "description": "Backed by a Civil Engineering degree, we ensure proper building materials and methods, staying current with all building codes.",
+      "id": "cCfvWHbRGneTslGp_uQt3"
+    }
+  ]
+}

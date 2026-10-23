@@ -1,0 +1,1129 @@
+{
+  "heading": "Design Your Bath",
+  "subheading": "Choose your base and bathtub",
+  "description": "Choose a shower base or bathtub to get started.",
+  "steps": [
+    {
+      "id": "step-1",
+      "key": "base",
+      "label": "Base or Bathtub",
+      "description": "Choose a shower base or bathtub.",
+      "options": [
+        {
+          "id": "base-composite-gray",
+          "name": "Composite Slate Gray",
+          "description": "Low-profile composite tray, slate gray finish, offset drain",
+          "image": "/airo-assets/images/shower-builder/base-composite-slate-gray",
+          "category": "bigbox"
+        },
+        {
+          "id": "base-composite-white",
+          "name": "Composite Slate White",
+          "description": "Low-profile composite tray, white finish, offset drain",
+          "image": "/airo-assets/images/shower-builder/base-composite-slate-white",
+          "category": "bigbox"
+        },
+        {
+          "id": "base-tub-ramsay",
+          "name": "Ramsay Bathtub",
+          "description": "Classic alcove bathtub with apron front, white acrylic",
+          "image": "/airo-assets/images/shower-builder/bathtub-ramsay",
+          "category": "bathtub"
+        },
+        {
+          "id": "base-tub-russell",
+          "name": "Russell Bathtub",
+          "description": "Modern alcove bathtub, clean lines, white acrylic",
+          "image": "/airo-assets/images/shower-builder/bathtub-russell",
+          "category": "bathtub"
+        },
+        {
+          "id": "base-tub-carl",
+          "name": "Carl Bathtub",
+          "description": "Contemporary alcove bathtub, wide rim, white acrylic",
+          "image": "/airo-assets/images/shower-builder/bathtub-carl",
+          "category": "bathtub"
+        },
+        {
+          "id": "base-1",
+          "name": "Slate Poly Base",
+          "description": "Non-slip textured slate-look poly surface, charcoal finish",
+          "image": "/airo-assets/images/shower-builder/base-slate-poly",
+          "category": "standup"
+        },
+        {
+          "id": "base-2",
+          "name": "White Poly Base",
+          "description": "Non-slip textured poly surface, white finish",
+          "image": "/airo-assets/images/shower-builder/base-white-poly",
+          "category": "standup"
+        },
+        {
+          "id": "base-5",
+          "name": "Silica White Base",
+          "description": "Non-slip low-profile silica surface, offset drain",
+          "image": "/airo-assets/images/shower-builder/base-silica-white",
+          "category": "standup"
+        },
+        {
+          "id": "base-3",
+          "name": "White Acrylic Base",
+          "description": "Smooth acrylic with raised border surround",
+          "image": "/airo-assets/images/shower-builder/base-white-acrylic",
+          "category": "standup"
+        },
+        {
+          "id": "base-4",
+          "name": "Tile Base",
+          "description": "Custom ceramic tile floor with stainless drain",
+          "image": "/airo-assets/images/shower-builder/base-tile",
+          "secondImage": "/airo-assets/images/shower-builder/base-tile-floor-detail",
+          "category": "standup"
+        }
+      ]
+    },
+    {
+      "id": "step-2",
+      "key": "tile",
+      "label": "Shower Tile",
+      "description": "Select your wall tile finish and size",
+      "options": [
+        {
+          "id": "tile-style-02",
+          "name": "Calacatta Soft Gold",
+          "description": "White marble with light gray and soft gold movement.",
+          "image": "/assets/uploads/tile-style-02-calacatta-soft-gold.png",
+          "category": "White"
+        },
+        {
+          "id": "tile-style-01",
+          "name": "Carrara Classic",
+          "description": "Classic Carrara marble with natural gray veining.",
+          "image": "/assets/uploads/tile-style-01-carrara-classic.png",
+          "category": "White"
+        },
+        {
+          "id": "tile-style-05",
+          "name": "Carrara — Soft Veining",
+          "description": "Carrara look with sparse, low-contrast gray veins.",
+          "image": "/assets/uploads/tile-style-carrara-soft-vein.png",
+          "category": "White"
+        },
+        {
+          "id": "tile-style-white-ribbed-reference",
+          "name": "White Horizontal Ribbed Tile",
+          "description": "White sculpted tile with fine horizontal waves, based on your shower photo.",
+          "image": "/assets/uploads/tile-style-white-horizontal-ribbed.png",
+          "category": "White"
+        },
+        {
+          "id": "tile-style-08",
+          "name": "Dove Gray Porcelain",
+          "description": "Pale dove-gray porcelain with restrained natural movement.",
+          "image": "/assets/uploads/tile-style-gray-dove-gray.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-14",
+          "name": "Gray Limestone",
+          "description": "Versatile neutral gray limestone look.",
+          "image": "/assets/uploads/tile-style-06-gray-limestone.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-09",
+          "name": "Silver Cloud Marble",
+          "description": "Silver-gray marble with fine, low-contrast veins.",
+          "image": "/assets/uploads/tile-style-gray-silver-gray-marble.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-15",
+          "name": "Silver Vein Marble",
+          "description": "Mid-gray marble with soft silver movement.",
+          "image": "/assets/uploads/tile-style-07-gray-marble.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-10",
+          "name": "Soft Gray Cement",
+          "description": "Quiet concrete look for a clean modern shower.",
+          "image": "/assets/uploads/tile-style-08-gray-cement.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-gray-horizontal-reference",
+          "name": "Soft Gray Horizontal Vein Tile",
+          "description": "Soft white-gray stone with subtle horizontal movement, based on your shower photo.",
+          "image": "/assets/uploads/tile-style-gray-horizontal-soft-vein.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-12",
+          "name": "Warm Gray Limestone",
+          "description": "Warm gray limestone with a subtle stone grain.",
+          "image": "/assets/uploads/tile-style-gray-warm-gray-limestone.png",
+          "category": "Gray"
+        },
+        {
+          "id": "tile-style-16",
+          "name": "Black Marble",
+          "description": "Deep black marble with delicate light veins.",
+          "image": "/assets/uploads/tile-style-13-black-marble.png",
+          "category": "Black"
+        },
+        {
+          "id": "tile-style-17",
+          "name": "Charcoal Slate",
+          "description": "Understated charcoal slate with natural texture.",
+          "image": "/assets/uploads/tile-style-14-charcoal-slate.png",
+          "category": "Black"
+        },
+        {
+          "id": "tile-style-19",
+          "name": "Beige Limestone",
+          "description": "Soft sandy limestone with a clean, quiet pattern.",
+          "image": "/assets/uploads/tile-style-11-beige-limestone.png",
+          "category": "Beige"
+        },
+        {
+          "id": "tile-style-18",
+          "name": "Beige Travertine",
+          "description": "Warm beige stone with subtle natural movement.",
+          "image": "/assets/uploads/tile-style-10-beige-travertine.png",
+          "category": "Beige"
+        }
+      ]
+    },
+    {
+      "id": "step-3",
+      "key": "taps",
+      "label": "Shower Taps",
+      "description": "Select a finish, then choose your model",
+      "options": [
+        {
+          "id": "taps-chrome-brantford",
+          "name": "Brantford",
+          "description": "Traditional cross-handle design with elegant curves and a timeless profile.",
+          "image": "/airo-assets/images/shower-builder/taps-chrome-brantford",
+          "category": "Chrome"
+        },
+        {
+          "id": "taps-chrome-genta",
+          "name": "Genta",
+          "description": "Sleek single-lever design with a contemporary geometric silhouette.",
+          "image": "/airo-assets/images/shower-builder/taps-chrome-genta",
+          "category": "Chrome"
+        },
+        {
+          "id": "taps-chrome-rizon",
+          "name": "Rizon",
+          "description": "Modern minimalist lever with clean lines and a refined finish.",
+          "image": "/airo-assets/images/shower-builder/taps-chrome-rizon",
+          "category": "Chrome"
+        },
+        {
+          "id": "taps-chrome-voss",
+          "name": "Voss",
+          "description": "Transitional style with a rounded lever and classic proportions.",
+          "image": "/airo-assets/images/shower-builder/taps-chrome-voss",
+          "category": "Chrome"
+        },
+        {
+          "id": "taps-chrome-align",
+          "name": "Align",
+          "description": "Ultra-modern straight-line lever with a bold, architectural presence.",
+          "image": "/airo-assets/images/shower-builder/taps-chrome-align",
+          "category": "Chrome"
+        },
+        {
+          "id": "taps-matte-black-brantford",
+          "name": "Brantford",
+          "description": "Traditional cross-handle design with elegant curves and a timeless profile.",
+          "image": "/airo-assets/images/shower-builder/taps-matte-black-brantford",
+          "category": "Matte Black"
+        },
+        {
+          "id": "taps-matte-black-genta",
+          "name": "Genta",
+          "description": "Sleek single-lever design with a contemporary geometric silhouette.",
+          "image": "/airo-assets/images/shower-builder/taps-matte-black-genta",
+          "category": "Matte Black"
+        },
+        {
+          "id": "taps-matte-black-rizon",
+          "name": "Rizon",
+          "description": "Modern minimalist lever with clean lines and a refined finish.",
+          "image": "/airo-assets/images/shower-builder/taps-matte-black-rizon",
+          "category": "Matte Black"
+        },
+        {
+          "id": "taps-matte-black-voss",
+          "name": "Voss",
+          "description": "Transitional style with a rounded lever and classic proportions.",
+          "image": "/airo-assets/images/shower-builder/taps-matte-black-voss",
+          "category": "Matte Black"
+        },
+        {
+          "id": "taps-matte-black-align",
+          "name": "Align",
+          "description": "Ultra-modern straight-line lever with a bold, architectural presence.",
+          "image": "/airo-assets/images/shower-builder/taps-matte-black-align",
+          "category": "Matte Black"
+        },
+        {
+          "id": "taps-brushed-nickel-brantford",
+          "name": "Brantford",
+          "description": "Traditional cross-handle design with elegant curves and a timeless profile.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-nickel-brantford",
+          "category": "Brushed Nickel"
+        },
+        {
+          "id": "taps-brushed-nickel-genta",
+          "name": "Genta",
+          "description": "Sleek single-lever design with a contemporary geometric silhouette.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-nickel-genta",
+          "category": "Brushed Nickel"
+        },
+        {
+          "id": "taps-brushed-nickel-rizon",
+          "name": "Rizon",
+          "description": "Modern minimalist lever with clean lines and a refined finish.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-nickel-rizon",
+          "category": "Brushed Nickel"
+        },
+        {
+          "id": "taps-brushed-nickel-voss",
+          "name": "Voss",
+          "description": "Transitional style with a rounded lever and classic proportions.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-nickel-voss",
+          "category": "Brushed Nickel"
+        },
+        {
+          "id": "taps-brushed-nickel-align",
+          "name": "Align",
+          "description": "Ultra-modern straight-line lever with a bold, architectural presence.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-nickel-align",
+          "category": "Brushed Nickel"
+        },
+        {
+          "id": "taps-brushed-gold-brantford",
+          "name": "Brantford",
+          "description": "Traditional cross-handle design with elegant curves and a timeless profile.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-gold-brantford",
+          "category": "Brushed Gold"
+        },
+        {
+          "id": "taps-brushed-gold-genta",
+          "name": "Genta",
+          "description": "Sleek single-lever design with a contemporary geometric silhouette.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-gold-genta",
+          "category": "Brushed Gold"
+        },
+        {
+          "id": "taps-brushed-gold-rizon",
+          "name": "Rizon",
+          "description": "Modern minimalist lever with clean lines and a refined finish.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-gold-rizon",
+          "category": "Brushed Gold"
+        },
+        {
+          "id": "taps-brushed-gold-voss",
+          "name": "Voss",
+          "description": "Transitional style with a rounded lever and classic proportions.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-gold-voss",
+          "category": "Brushed Gold"
+        },
+        {
+          "id": "taps-brushed-gold-align",
+          "name": "Align",
+          "description": "Ultra-modern straight-line lever with a bold, architectural presence.",
+          "image": "/airo-assets/images/shower-builder/taps-brushed-gold-align",
+          "category": "Brushed Gold"
+        },
+        {
+          "id": "taps-chrome-90-degree",
+          "name": "90 Degree",
+          "description": "Moen 90 Degree collection, Chrome.",
+          "image": "",
+          "category": "Chrome"
+        },
+        {
+          "id": "taps-brushed-nickel-90-degree",
+          "name": "90 Degree",
+          "description": "Moen 90 Degree collection, Brushed Nickel.",
+          "image": "",
+          "category": "Brushed Nickel"
+        }
+      ]
+    },
+    {
+      "id": "step-4",
+      "key": "hardware",
+      "label": "Hardware Accessories",
+      "description": "Choose a finish, then select the shower hardware to include.",
+      "options": [
+        {
+          "id": "hardware-velocity-8",
+          "name": "8\" Velocity Rainhead",
+          "description": "Moen Velocity rainhead, model S6320.",
+          "image": "/assets/uploads/moen-rainhead-velocity-chrome.jpg",
+          "group": "Rain Heads",
+          "finishImages": {
+            "Chrome": "/assets/uploads/moen-rainhead-velocity-chrome.jpg",
+            "Matte Black": "/assets/uploads/moen-rainhead-velocity-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/moen-rainhead-velocity-brushed-nickel.jpg",
+            "Brushed Gold": "/assets/uploads/moen-rainhead-velocity-brushed-gold.jpg"
+          }
+        },
+        {
+          "id": "hardware-square-rainhead",
+          "name": "10\" Square Rainhead",
+          "description": "Moen 10 inch square rainshower.",
+          "image": "/assets/uploads/moen-rainhead-square-chrome.jpg",
+          "group": "Rain Heads",
+          "finishImages": {
+            "Chrome": "/assets/uploads/moen-rainhead-square-chrome.jpg",
+            "Matte Black": "/assets/uploads/moen-rainhead-square-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/moen-rainhead-square-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/moen-rainhead-square-brushed-gold.png"
+          }
+        },
+        {
+          "id": "hardware-round-rainhead",
+          "name": "10\" Round Rainhead",
+          "description": "Moen 10 inch round rainshower.",
+          "image": "/assets/uploads/moen-rainhead-round-chrome.jpg",
+          "group": "Rain Heads",
+          "finishImages": {
+            "Chrome": "/assets/uploads/moen-rainhead-round-chrome.jpg",
+            "Matte Black": "/assets/uploads/moen-rainhead-round-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/moen-rainhead-round-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/moen-rainhead-round-brushed-gold.png"
+          }
+        },
+        {
+          "id": "hardware-slider-bar",
+          "name": "3669EP Handshower & Slider Bar",
+          "description": "Moen four-function Eco-Performance handshower with 30-inch slide bar, model 3669EP.",
+          "image": "/assets/uploads/moen-3669ep-chrome.png",
+          "group": "Handhelds & Slider Bars",
+          "finishImages": {
+            "Chrome": "/assets/uploads/moen-3669ep-chrome.png",
+            "Matte Black": "/assets/uploads/moen-3669ep-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/moen-3669ep-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/moen-3669ep-brushed-gold.png"
+          }
+        },
+        {
+          "id": "hardware-engage",
+          "name": "Engage Handheld",
+          "description": "Moen Engage 5.5 inch handheld shower, model 26112.",
+          "image": "/assets/uploads/moen-engage-chrome.jpg",
+          "group": "Handhelds & Slider Bars",
+          "finishImages": {
+            "Chrome": "/assets/uploads/moen-engage-chrome.jpg",
+            "Matte Black": "/assets/uploads/moen-engage-matte-black-clean.png",
+            "Brushed Nickel": "/assets/uploads/moen-engage-brushed-nickel.jpg",
+            "Brushed Gold": "/assets/uploads/moen-engage-brushed-gold.png"
+          }
+        },
+        {
+          "id": "hardware-combo-slider",
+          "name": "Combo Slider Bar with Handheld",
+          "description": "Moen Magnetix combo, model 26009.",
+          "image": "/assets/uploads/moen-magnetix-combo-chrome.jpg",
+          "group": "Handhelds & Slider Bars",
+          "finishImages": {
+            "Chrome": "/assets/uploads/moen-magnetix-combo-chrome.jpg",
+            "Matte Black": "/assets/uploads/moen-magnetix-combo-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/moen-magnetix-combo-brushed-nickel-clean.png",
+            "Brushed Gold": "/assets/uploads/moen-magnetix-combo-brushed-gold.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "step-5",
+      "key": "doors",
+      "label": "Shower Doors",
+      "description": "Choose a frame finish, then select your shower enclosure style.",
+      "options": [
+        {
+          "id": "doors-1",
+          "name": "Double Sliding Door",
+          "description": "Double sliding glass enclosure with exposed roller hardware.",
+          "image": "/assets/uploads/door-double-slider-matte-black.png",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/door-double-slider-chrome.png",
+            "Matte Black": "/assets/uploads/door-double-slider-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/door-double-slider-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/door-double-slider-brushed-gold.png"
+          }
+        },
+        {
+          "id": "doors-2",
+          "name": "Fixed Panel + Slider",
+          "description": "Clean fixed panel and sliding door combination.",
+          "image": "/assets/uploads/door-fixed-slider-matte-black.png",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/door-fixed-slider-chrome.png",
+            "Matte Black": "/assets/uploads/door-fixed-slider-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/door-fixed-slider-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/door-fixed-slider-brushed-gold.png"
+          }
+        },
+        {
+          "id": "doors-3",
+          "name": "Frameless Hinged Door",
+          "description": "Custom frameless glass door with hinged entry.",
+          "image": "/assets/uploads/door-frameless-hinged-chrome.png",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/door-frameless-hinged-chrome.png",
+            "Matte Black": "/assets/uploads/door-frameless-hinged-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/door-frameless-hinged-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/door-frameless-hinged-brushed-gold.png"
+          }
+        },
+        {
+          "id": "doors-4",
+          "name": "Double Bypass Slider",
+          "description": "Space-saving double bypass sliding glass enclosure.",
+          "image": "/assets/uploads/door-double-bypass-chrome.png",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/door-double-bypass-chrome.png",
+            "Matte Black": "/assets/uploads/door-double-bypass-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/door-double-bypass-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/door-double-bypass-brushed-gold.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "step-6",
+      "key": "accessories",
+      "label": "Accessories",
+      "description": "Choose shelves, benches, footrests and grab bars. Select multiple if you like.",
+      "options": [
+        {
+          "id": "accessory-niche",
+          "name": "Recessed Niche",
+          "description": "Tiled recessed storage niche.",
+          "image": "/assets/uploads/accessory-recessed-niche.png",
+          "group": "Shelves"
+        },
+        {
+          "id": "accessory-corner-glass-shelf",
+          "name": "Corner Glass Shelf",
+          "description": "Tempered corner glass shelf with dark brackets.",
+          "image": "/assets/uploads/accessory-corner-glass-shelf.png",
+          "group": "Shelves",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/accessory-corner-shelf-chrome.png",
+            "Matte Black": "/assets/uploads/accessory-corner-shelf-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/accessory-corner-shelf-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/accessory-corner-shelf-brushed-gold.png"
+          }
+        },
+        {
+          "id": "accessory-straight-glass-shelf",
+          "name": "Straight Glass Shelf Set",
+          "description": "Two straight tempered glass shelves.",
+          "image": "/assets/uploads/accessory-straight-glass-shelf.png",
+          "group": "Shelves",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/accessory-straight-shelf-chrome.png",
+            "Matte Black": "/assets/uploads/accessory-straight-shelf-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/accessory-straight-shelf-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/accessory-straight-shelf-brushed-gold.png"
+          }
+        },
+        {
+          "id": "accessory-black-bench",
+          "name": "Black PVC Bench",
+          "description": "Low-maintenance black shower bench with lower shelf.",
+          "image": "/assets/uploads/accessory-black-bench-clean.png",
+          "group": "Benches & Footrests"
+        },
+        {
+          "id": "accessory-brown-teak-bench",
+          "name": "Brown Teak Bench",
+          "description": "Warm brown teak-look shower bench with lower shelf.",
+          "image": "/assets/uploads/accessory-brown-teak-bench-clean.png",
+          "group": "Benches & Footrests"
+        },
+        {
+          "id": "accessory-dark-footrest",
+          "name": "Dark Corner Footrest",
+          "description": "Compact dark corner footrest with storage shelf.",
+          "image": "/assets/uploads/accessory-dark-corner-footrest.png",
+          "group": "Benches & Footrests"
+        },
+        {
+          "id": "accessory-light-footrest",
+          "name": "Light Teak Corner Footrest",
+          "description": "Compact light teak corner footrest with storage shelf.",
+          "image": "/assets/uploads/accessory-light-corner-footrest.png",
+          "group": "Benches & Footrests"
+        },
+        {
+          "id": "accessory-grab-bar-12",
+          "name": "12\" Grab Bar",
+          "description": "Compact 12-inch safety grab bar.",
+          "image": "/assets/uploads/accessory-grab-bar.png",
+          "group": "Grab Bars",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/accessory-grab-bar-chrome.png",
+            "Matte Black": "/assets/uploads/accessory-grab-bar-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/accessory-grab-bar-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/accessory-grab-bar-brushed-gold.png"
+          }
+        },
+        {
+          "id": "accessory-grab-bar-18",
+          "name": "18\" Grab Bar",
+          "description": "Versatile 18-inch safety grab bar.",
+          "image": "/assets/uploads/accessory-grab-bar.png",
+          "group": "Grab Bars",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/accessory-grab-bar-chrome.png",
+            "Matte Black": "/assets/uploads/accessory-grab-bar-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/accessory-grab-bar-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/accessory-grab-bar-brushed-gold.png"
+          }
+        },
+        {
+          "id": "accessory-grab-bar-24",
+          "name": "24\" Grab Bar",
+          "description": "Extended 24-inch safety grab bar.",
+          "image": "/assets/uploads/accessory-grab-bar.png",
+          "group": "Grab Bars",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/accessory-grab-bar-chrome.png",
+            "Matte Black": "/assets/uploads/accessory-grab-bar-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/accessory-grab-bar-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/accessory-grab-bar-brushed-gold.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "step-7",
+      "key": "floor",
+      "label": "Floor",
+      "description": "Choose vinyl or tile for the bathroom floor.",
+      "options": [
+        {
+          "id": "floor-vinyl-light-gray-oak",
+          "name": "Light Grey Oak Style",
+          "description": "A light cool gray oak-look waterproof vinyl plank; inspired by Home Depot Canada Light Grey Oak styles.",
+          "image": "/assets/uploads/floor-vinyl-light-gray-oak.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-dark-gray-oak",
+          "name": "Dark Grey Oak Style",
+          "description": "A deep charcoal gray oak-look waterproof vinyl plank; inspired by Home Depot Canada Dark Grey Oak styles.",
+          "image": "/assets/uploads/floor-vinyl-dark-gray-oak.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-mid-gray-driftwood",
+          "name": "Mid Gray Driftwood",
+          "description": "A balanced gray driftwood plank with restrained grain.",
+          "image": "/assets/uploads/floor-vinyl-mid-gray-driftwood.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-pale-natural-oak",
+          "name": "Pale Natural Oak",
+          "description": "A pale natural oak plank with quiet grain and low pattern contrast.",
+          "image": "/assets/uploads/floor-vinyl-pale-natural-oak.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-warm-beige-oak",
+          "name": "Warm Beige Oak",
+          "description": "A warm beige oak-look plank with understated grain.",
+          "image": "/assets/uploads/floor-vinyl-warm-beige-oak.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-scratch-stone-gray",
+          "name": "Scratch Stone Gray Style",
+          "description": "A subtle gray stone-look vinyl; inspired by Home Depot Canada Scratch Stone styles.",
+          "image": "/assets/uploads/floor-vinyl-scratch-stone-gray.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-ivory-marble",
+          "name": "Ivory Marble Style",
+          "description": "A soft ivory marble-look vinyl with fine gray veining; inspired by Home Depot Canada marble-look styles.",
+          "image": "/assets/uploads/floor-vinyl-ivory-marble.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-light-oak",
+          "name": "Light Oak Vinyl",
+          "description": "Bright waterproof vinyl plank with natural oak grain.",
+          "image": "/assets/uploads/floor-vinyl-light-oak.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-warm-oak",
+          "name": "Warm Oak Vinyl",
+          "description": "Warm waterproof vinyl plank for a comfortable modern look.",
+          "image": "/assets/uploads/floor-vinyl-warm-oak.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-vinyl-stone-gray",
+          "name": "Stone Gray Vinyl",
+          "description": "Waterproof stone-look vinyl in a neutral gray finish.",
+          "image": "/assets/uploads/floor-vinyl-stone-gray.png",
+          "category": "Vinyl"
+        },
+        {
+          "id": "floor-tile-01",
+          "name": "Calacatta Soft Gold Floor Tile",
+          "description": "White marble with light gray and soft gold movement.",
+          "image": "/assets/uploads/tile-style-02-calacatta-soft-gold.png",
+          "category": "Tile",
+          "group": "White"
+        },
+        {
+          "id": "floor-tile-02",
+          "name": "Carrara Classic Floor Tile",
+          "description": "Classic Carrara marble with natural gray veining.",
+          "image": "/assets/uploads/tile-style-01-carrara-classic.png",
+          "category": "Tile",
+          "group": "White"
+        },
+        {
+          "id": "floor-tile-03",
+          "name": "Carrara — Soft Veining Floor Tile",
+          "description": "Carrara look with sparse, low-contrast gray veins.",
+          "image": "/assets/uploads/tile-style-carrara-soft-vein.png",
+          "category": "Tile",
+          "group": "White"
+        },
+        {
+          "id": "floor-tile-05",
+          "name": "White Horizontal Ribbed Tile Floor Tile",
+          "description": "White sculpted tile with fine horizontal waves, based on your shower photo.",
+          "image": "/assets/uploads/tile-style-white-horizontal-ribbed.png",
+          "category": "Tile",
+          "group": "White"
+        },
+        {
+          "id": "floor-tile-07",
+          "name": "Dove Gray Porcelain Floor Tile",
+          "description": "Pale dove-gray porcelain with restrained natural movement.",
+          "image": "/assets/uploads/tile-style-gray-dove-gray.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-08",
+          "name": "Gray Limestone Floor Tile",
+          "description": "Versatile neutral gray limestone look.",
+          "image": "/assets/uploads/tile-style-06-gray-limestone.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-09",
+          "name": "Silver Cloud Marble Floor Tile",
+          "description": "Silver-gray marble with fine, low-contrast veins.",
+          "image": "/assets/uploads/tile-style-gray-silver-gray-marble.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-10",
+          "name": "Silver Vein Marble Floor Tile",
+          "description": "Mid-gray marble with soft silver movement.",
+          "image": "/assets/uploads/tile-style-07-gray-marble.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-11",
+          "name": "Soft Gray Cement Floor Tile",
+          "description": "Quiet concrete look for a clean modern shower.",
+          "image": "/assets/uploads/tile-style-08-gray-cement.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-12",
+          "name": "Soft Gray Horizontal Vein Tile Floor Tile",
+          "description": "Soft white-gray stone with subtle horizontal movement, based on your shower photo.",
+          "image": "/assets/uploads/tile-style-gray-horizontal-soft-vein.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-13",
+          "name": "Warm Gray Limestone Floor Tile",
+          "description": "Warm gray limestone with a subtle stone grain.",
+          "image": "/assets/uploads/tile-style-gray-warm-gray-limestone.png",
+          "category": "Tile",
+          "group": "Gray"
+        },
+        {
+          "id": "floor-tile-14",
+          "name": "Black Marble Floor Tile",
+          "description": "Deep black marble with delicate light veins.",
+          "image": "/assets/uploads/tile-style-13-black-marble.png",
+          "category": "Tile",
+          "group": "Black"
+        },
+        {
+          "id": "floor-tile-15",
+          "name": "Charcoal Slate Floor Tile",
+          "description": "Understated charcoal slate with natural texture.",
+          "image": "/assets/uploads/tile-style-14-charcoal-slate.png",
+          "category": "Tile",
+          "group": "Black"
+        },
+        {
+          "id": "floor-tile-16",
+          "name": "Beige Limestone Floor Tile",
+          "description": "Soft sandy limestone with a clean, quiet pattern.",
+          "image": "/assets/uploads/tile-style-11-beige-limestone.png",
+          "category": "Tile",
+          "group": "Beige"
+        },
+        {
+          "id": "floor-tile-17",
+          "name": "Beige Travertine Floor Tile",
+          "description": "Warm beige stone with subtle natural movement.",
+          "image": "/assets/uploads/tile-style-10-beige-travertine.png",
+          "category": "Tile",
+          "group": "Beige"
+        }
+      ]
+    },
+    {
+      "id": "step-8",
+      "key": "vanity",
+      "label": "Vanity",
+      "description": "Select a modern single- or double-sink vanity.",
+      "options": [
+        {
+          "id": "vanity-single-white",
+          "name": "White Floating Vanity",
+          "description": "Modern white single-sink vanity.",
+          "image": "/assets/uploads/vanity-single-white.png",
+          "group": "Single Sink"
+        },
+        {
+          "id": "vanity-single-gray",
+          "name": "Gray Floating Vanity",
+          "description": "Modern gray single-sink vanity.",
+          "image": "/assets/uploads/vanity-single-gray.png",
+          "group": "Single Sink"
+        },
+        {
+          "id": "vanity-single-black",
+          "name": "Black Floating Vanity",
+          "description": "Modern black single-sink vanity.",
+          "image": "/assets/uploads/vanity-single-black.png",
+          "group": "Single Sink"
+        },
+        {
+          "id": "vanity-single-light-oak",
+          "name": "Light Oak Floating Vanity",
+          "description": "Modern light wood single-sink vanity.",
+          "image": "/assets/uploads/vanity-single-light-oak.png",
+          "group": "Single Sink"
+        },
+        {
+          "id": "vanity-single-dark-walnut",
+          "name": "Dark Walnut Floating Vanity",
+          "description": "Modern dark wood single-sink vanity.",
+          "image": "/assets/uploads/vanity-single-dark-walnut.png",
+          "group": "Single Sink"
+        },
+        {
+          "id": "vanity-single-floor-white",
+          "name": "White Floor-Standing Single Vanity",
+          "description": "Floor-standing Shaker style with one sink, center cabinet doors, and drawer stacks on both sides.",
+          "image": "/assets/uploads/vanity-single-floor-shaker-white.png",
+          "group": "Single Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-single-floor-gray",
+          "name": "Gray Floor-Standing Single Vanity",
+          "description": "Floor-standing Shaker style with one sink, center cabinet doors, and drawer stacks on both sides.",
+          "image": "/assets/uploads/vanity-single-floor-shaker-gray.png",
+          "group": "Single Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-single-floor-black",
+          "name": "Black Floor-Standing Single Vanity",
+          "description": "Floor-standing Shaker style with one sink, center cabinet doors, and drawer stacks on both sides.",
+          "image": "/assets/uploads/vanity-single-floor-shaker-black.png",
+          "group": "Single Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-single-floor-light-oak",
+          "name": "Light Oak Floor-Standing Single Vanity",
+          "description": "Floor-standing Shaker style with one sink, center cabinet doors, and drawer stacks on both sides.",
+          "image": "/assets/uploads/vanity-single-floor-shaker-light-oak.png",
+          "group": "Single Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-single-floor-dark-walnut",
+          "name": "Dark Walnut Floor-Standing Single Vanity",
+          "description": "Floor-standing Shaker style with one sink, center cabinet doors, and drawer stacks on both sides.",
+          "image": "/assets/uploads/vanity-single-floor-shaker-dark-walnut.png",
+          "group": "Single Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-double-floor-white",
+          "name": "White Floor-Standing Double Vanity",
+          "description": "Floor-standing Shaker style with two sinks, three drawers centered between them, and cabinet doors at the outer ends.",
+          "image": "/assets/uploads/vanity-double-floor-shaker-white.png",
+          "group": "Double Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-double-floor-gray",
+          "name": "Gray Floor-Standing Double Vanity",
+          "description": "Floor-standing Shaker style with two sinks, three drawers centered between them, and cabinet doors at the outer ends.",
+          "image": "/assets/uploads/vanity-double-floor-shaker-gray.png",
+          "group": "Double Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-double-floor-black",
+          "name": "Black Floor-Standing Double Vanity",
+          "description": "Floor-standing Shaker style with two sinks, three drawers centered between them, and cabinet doors at the outer ends.",
+          "image": "/assets/uploads/vanity-double-floor-shaker-black.png",
+          "group": "Double Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-double-floor-light-oak",
+          "name": "Light Oak Floor-Standing Double Vanity",
+          "description": "Floor-standing Shaker style with two sinks, three drawers centered between them, and cabinet doors at the outer ends.",
+          "image": "/assets/uploads/vanity-double-floor-shaker-light-oak.png",
+          "group": "Double Sink — Floor Standing"
+        },
+        {
+          "id": "vanity-double-floor-dark-walnut",
+          "name": "Dark Walnut Floor-Standing Double Vanity",
+          "description": "Floor-standing Shaker style with two sinks, three drawers centered between them, and cabinet doors at the outer ends.",
+          "image": "/assets/uploads/vanity-double-floor-shaker-dark-walnut.png",
+          "group": "Double Sink — Floor Standing"
+        }
+      ]
+    },
+    {
+      "id": "step-9",
+      "key": "wall-colour",
+      "label": "Colour",
+      "description": "Choose a wall colour for the rest of the bathroom.",
+      "options": [
+        {
+          "id": "colour-pure-white",
+          "name": "Pure White",
+          "description": "Clean bright white.",
+          "image": "",
+          "swatch": "#F5F4EF"
+        },
+        {
+          "id": "colour-warm-white",
+          "name": "Warm White",
+          "description": "Soft warm white.",
+          "image": "",
+          "swatch": "#EEE8DC"
+        },
+        {
+          "id": "colour-soft-ivory",
+          "name": "Soft Ivory",
+          "description": "Creamy light neutral.",
+          "image": "",
+          "swatch": "#E8DFC9"
+        },
+        {
+          "id": "colour-sand",
+          "name": "Sand",
+          "description": "Relaxed sandy neutral.",
+          "image": "",
+          "swatch": "#D8C7A5"
+        },
+        {
+          "id": "colour-beige",
+          "name": "Beige",
+          "description": "Classic warm beige.",
+          "image": "",
+          "swatch": "#C8B394"
+        },
+        {
+          "id": "colour-greige",
+          "name": "Greige",
+          "description": "Balanced gray beige.",
+          "image": "",
+          "swatch": "#B8AC9E"
+        },
+        {
+          "id": "colour-light-gray",
+          "name": "Light Gray",
+          "description": "Soft cool gray.",
+          "image": "",
+          "swatch": "#C9CBCB"
+        },
+        {
+          "id": "colour-medium-gray",
+          "name": "Medium Gray",
+          "description": "Versatile middle gray.",
+          "image": "",
+          "swatch": "#969A9C"
+        },
+        {
+          "id": "colour-charcoal",
+          "name": "Charcoal",
+          "description": "Deep modern charcoal.",
+          "image": "",
+          "swatch": "#505356"
+        },
+        {
+          "id": "colour-black",
+          "name": "Black",
+          "description": "Bold dramatic black.",
+          "image": "",
+          "swatch": "#191919"
+        },
+        {
+          "id": "colour-taupe",
+          "name": "Taupe",
+          "description": "Warm earthy taupe.",
+          "image": "",
+          "swatch": "#9C8877"
+        },
+        {
+          "id": "colour-mocha",
+          "name": "Mocha",
+          "description": "Rich warm brown.",
+          "image": "",
+          "swatch": "#755C4A"
+        },
+        {
+          "id": "colour-blush",
+          "name": "Blush",
+          "description": "Muted soft blush.",
+          "image": "",
+          "swatch": "#D8B6AE"
+        },
+        {
+          "id": "colour-sage",
+          "name": "Sage",
+          "description": "Calm natural green.",
+          "image": "",
+          "swatch": "#98A58F"
+        },
+        {
+          "id": "colour-olive",
+          "name": "Olive",
+          "description": "Grounded olive green.",
+          "image": "",
+          "swatch": "#72775A"
+        },
+        {
+          "id": "colour-dusty-blue",
+          "name": "Dusty Blue",
+          "description": "Muted spa blue.",
+          "image": "",
+          "swatch": "#8EA2B2"
+        },
+        {
+          "id": "colour-navy",
+          "name": "Navy",
+          "description": "Classic deep navy.",
+          "image": "",
+          "swatch": "#263B55"
+        },
+        {
+          "id": "colour-teal",
+          "name": "Teal",
+          "description": "Deep balanced teal.",
+          "image": "",
+          "swatch": "#3E6A68"
+        },
+        {
+          "id": "colour-terracotta",
+          "name": "Terracotta",
+          "description": "Warm natural clay.",
+          "image": "",
+          "swatch": "#B86F52"
+        },
+        {
+          "id": "colour-muted-gold",
+          "name": "Muted Gold",
+          "description": "Soft ochre gold.",
+          "image": "",
+          "swatch": "#B59A58"
+        }
+      ]
+    },
+    {
+      "id": "step-10",
+      "key": "bathroom-accessories",
+      "label": "Bathroom Accessories",
+      "description": "Add a mirror and a matching towel bar set.",
+      "options": [
+        {
+          "id": "bath-led-round-mirror",
+          "name": "LED Round Mirror",
+          "description": "Round mirror with integrated LED lighting.",
+          "image": "/assets/uploads/bath-accessory-led-round-mirror.png",
+          "group": "Mirrors"
+        },
+        {
+          "id": "bath-led-rectangle-mirror",
+          "name": "LED Rectangular Mirror",
+          "description": "Rectangular mirror with integrated LED lighting.",
+          "image": "/assets/uploads/bath-accessory-led-rectangle-mirror.png",
+          "group": "Mirrors"
+        },
+        {
+          "id": "bath-basic-round-mirror",
+          "name": "Basic Round Mirror",
+          "description": "Simple modern round mirror.",
+          "image": "/assets/uploads/bath-accessory-basic-round-mirror.png",
+          "group": "Mirrors"
+        },
+        {
+          "id": "bath-basic-rectangle-mirror",
+          "name": "Basic Rectangular Mirror",
+          "description": "Simple modern rectangular mirror.",
+          "image": "/assets/uploads/bath-accessory-basic-rectangle-mirror.png",
+          "group": "Mirrors"
+        },
+        {
+          "id": "bath-towel-set",
+          "name": "Coordinating Towel Bar Set",
+          "description": "Towel bar, hand-towel ring, robe hook and toilet-paper holder.",
+          "image": "/assets/uploads/towel-set-chrome.png",
+          "group": "Towel Bar Sets",
+          "finishable": true,
+          "finishImages": {
+            "Chrome": "/assets/uploads/towel-set-chrome.png",
+            "Matte Black": "/assets/uploads/towel-set-matte-black.png",
+            "Brushed Nickel": "/assets/uploads/towel-set-brushed-nickel.png",
+            "Brushed Gold": "/assets/uploads/towel-set-brushed-gold.png"
+          }
+        }
+      ]
+    }
+  ]
+}

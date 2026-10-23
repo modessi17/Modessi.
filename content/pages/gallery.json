@@ -1,0 +1,224 @@
+{
+  "galleryImages": [
+    {
+      "id": "g1",
+      "slot": "/airo-assets/images/pages/gallery/photo-1",
+      "alt": "Modern bathroom with marble shower and vanity"
+    },
+    {
+      "id": "g2",
+      "slot": "/airo-assets/images/pages/gallery/photo-2",
+      "alt": "Modern bathroom shower enclosure with glass doors"
+    },
+    {
+      "id": "g3",
+      "slot": "/airo-assets/images/pages/gallery/photo-3",
+      "alt": "Wood plank tile flooring with kitchen cabinets"
+    },
+    {
+      "id": "g4",
+      "slot": "/airo-assets/images/pages/gallery/photo-4",
+      "alt": "Modern bathroom with black vanity and round mirror"
+    },
+    {
+      "id": "g5",
+      "slot": "/airo-assets/images/pages/gallery/photo-5",
+      "alt": "Modern bathroom renovation"
+    },
+    {
+      "id": "g6",
+      "slot": "/airo-assets/images/pages/gallery/photo-6",
+      "alt": "Modern luxury bathroom with freestanding tub"
+    },
+    {
+      "id": "g7",
+      "slot": "/airo-assets/images/pages/gallery/photo-7",
+      "alt": "Interior design colour and material selection"
+    },
+    {
+      "id": "g8",
+      "slot": "/airo-assets/images/pages/gallery/photo-8",
+      "alt": "Modern bathroom with glass shower and bathtub"
+    },
+    {
+      "id": "g9",
+      "slot": "/airo-assets/images/pages/gallery/photo-9",
+      "alt": "Modern bathroom with glass shower enclosure"
+    },
+    {
+      "id": "g10",
+      "slot": "/airo-assets/images/pages/gallery/photo-10",
+      "alt": "Modern bathroom with marble flooring and black vanity"
+    },
+    {
+      "id": "g11",
+      "slot": "/airo-assets/images/pages/gallery/photo-11",
+      "alt": "Modern bathroom with glass shower enclosure"
+    },
+    {
+      "id": "g12",
+      "slot": "/airo-assets/images/pages/gallery/photo-12",
+      "alt": "Modern bathroom shower enclosure with black frame"
+    },
+    {
+      "id": "g13",
+      "slot": "/airo-assets/images/pages/gallery/photo-13",
+      "alt": "Modern bathroom with dual vanity sink"
+    },
+    {
+      "id": "g14",
+      "slot": "/airo-assets/images/pages/gallery/photo-14",
+      "alt": "Modern bathroom renovation"
+    },
+    {
+      "id": "g15",
+      "slot": "/airo-assets/images/pages/gallery/photo-15",
+      "alt": "Modern bathroom shower enclosure with marble tile"
+    },
+    {
+      "id": "g16",
+      "slot": "/airo-assets/images/pages/gallery/photo-16",
+      "alt": "Modern bathroom shower glass enclosure"
+    },
+    {
+      "id": "g17",
+      "slot": "/airo-assets/images/pages/gallery/photo-17",
+      "alt": "Marble tile shower enclosure with chrome fixtures and grab bars"
+    },
+    {
+      "id": "g18",
+      "slot": "/airo-assets/images/pages/gallery/photo-18",
+      "alt": "Modern bathroom with glass shower enclosure and herringbone floor tile"
+    },
+    {
+      "id": "g19",
+      "slot": "/airo-assets/images/pages/gallery/photo-19",
+      "alt": "Glass shower enclosure with grey marble tile and chrome hardware"
+    },
+    {
+      "id": "g20",
+      "slot": "/airo-assets/images/pages/gallery/photo-20",
+      "alt": "Marble bathroom with dual showerheads and blue vanity"
+    },
+    {
+      "id": "g21",
+      "slot": "/airo-assets/images/pages/gallery/photo-21",
+      "alt": "Marble shower with glass enclosure and wood bench seat"
+    },
+    {
+      "id": "g22",
+      "slot": "/airo-assets/images/pages/gallery/photo-22",
+      "alt": "Marble tile shower with black frame and shelving"
+    },
+    {
+      "id": "g23",
+      "slot": "/airo-assets/images/pages/gallery/photo-23",
+      "alt": "Marble tile bathtub surround with brushed nickel fixtures"
+    },
+    {
+      "id": "g24",
+      "slot": "/airo-assets/images/pages/gallery/photo-24",
+      "alt": "Bathtub with marble tile surround and grey vanity"
+    },
+    {
+      "id": "g25",
+      "slot": "/airo-assets/images/pages/gallery/photo-25",
+      "alt": "Marble shower with hexagon floor tile and chrome fixtures"
+    },
+    {
+      "id": "g26",
+      "slot": "/airo-assets/images/pages/gallery/photo-26",
+      "alt": "Marble shower with black frame, hexagon floor tile and dark vanity"
+    },
+    {
+      "id": "g27",
+      "slot": "/airo-assets/images/pages/gallery/photo-27",
+      "alt": "Frameless glass shower enclosure with marble tile and chrome fixtures"
+    },
+    {
+      "id": "g28",
+      "slot": "/airo-assets/images/pages/gallery/photo-28",
+      "alt": "Glass shower with marble tile, herringbone floor and brass fixtures"
+    },
+    {
+      "id": "g29",
+      "slot": "/airo-assets/images/pages/gallery/photo-29",
+      "alt": "Full bathroom renovation with marble shower and grey vanity"
+    },
+    {
+      "id": "g30",
+      "slot": "/airo-assets/images/pages/gallery/photo-30",
+      "alt": "Black-framed glass shower with marble tile and rain showerhead"
+    },
+    {
+      "id": "g31",
+      "slot": "/airo-assets/images/pages/gallery/photo-31",
+      "alt": "Modern bathroom with black vanity, LED mirror and glass shower"
+    },
+    {
+      "id": "g32",
+      "slot": "/airo-assets/images/pages/gallery/photo-32",
+      "alt": "Tub surround with marble tile, gold trim and built-in niche"
+    },
+    {
+      "id": "g33",
+      "slot": "/airo-assets/images/pages/gallery/photo-33",
+      "alt": "Black-framed corner shower enclosure with textured white tile"
+    },
+    {
+      "id": "g34",
+      "slot": "/airo-assets/images/pages/gallery/photo-34",
+      "alt": "Black-framed sliding glass shower with white tile and marble floor"
+    },
+    {
+      "id": "g35",
+      "slot": "/airo-assets/images/pages/gallery/photo-35",
+      "alt": "Frameless glass shower enclosure with grey marble tile"
+    },
+    {
+      "id": "g36",
+      "slot": "/airo-assets/images/pages/gallery/photo-36",
+      "alt": "Glass shower with grey subway tile and decorative mosaic floor"
+    },
+    {
+      "id": "g37",
+      "slot": "/airo-assets/images/pages/gallery/photo-37",
+      "alt": "Modern bathroom renovation project by Modessi Construction"
+    },
+    {
+      "id": "g38",
+      "slot": "/airo-assets/images/pages/gallery/photo-38",
+      "alt": "Custom tile work and shower installation"
+    },
+    {
+      "id": "g39",
+      "slot": "/airo-assets/images/pages/gallery/photo-39",
+      "alt": "Luxury bathroom renovation with premium finishes"
+    },
+    {
+      "id": "g40",
+      "slot": "/airo-assets/images/pages/gallery/photo-40",
+      "alt": "High-end bathroom remodel with custom cabinetry"
+    },
+    {
+      "id": "g41",
+      "slot": "/airo-assets/images/pages/gallery/photo-41",
+      "alt": "Modern bathroom renovation with custom tile and fixtures"
+    },
+    {
+      "id": "g42",
+      "slot": "/airo-assets/images/pages/gallery/photo-42",
+      "alt": "Luxury shower enclosure with premium tile work"
+    },
+    {
+      "id": "g43",
+      "slot": "/airo-assets/images/pages/gallery/photo-43",
+      "alt": "Custom bathroom renovation with high-end finishes"
+    },
+    {
+      "id": "g44",
+      "slot": "/airo-assets/images/pages/gallery/photo-44",
+      "alt": "Modern bathroom remodel with glass shower and vanity"
+    }
+  ]
+}

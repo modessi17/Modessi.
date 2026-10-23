@@ -1,0 +1,20 @@
+{
+  "processList": [
+    {
+      "id": "p1",
+      "text": "We provide a free in-home consultation"
+    },
+    {
+      "id": "p2",
+      "text": "We write up a personalized estimate for your project with cost details for labour and materials"
+    },
+    {
+      "id": "p3",
+      "text": "Fully insured, bonded and licensed"
+    },
+    {
+      "id": "p4",
+      "text": "We provide a stress free, professional process from start to finish — from ordering, scheduling and on the job."
+    }
+  ]
+}
