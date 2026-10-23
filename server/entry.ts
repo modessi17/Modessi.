@@ -2,6 +2,7 @@ import express, { type Express, type NextFunction, type Request, type Response }
 import { fileURLToPath } from "node:url";
 import { dirname, extname, join } from "node:path";
 import { readFileSync } from "node:fs";
+import { createMediaAssetsMiddleware } from "../../export-plugins/media-assets-plugin";
 
 // <api-imports>
 import health__get from "./api/health/GET";
@@ -332,6 +333,7 @@ app.get("/llms.txt", llmsTxtHandler);
 if (import.meta.env.PROD) {
 	const __dirname = dirname(fileURLToPath(import.meta.url));
 	const clientDir = join(__dirname, "client");
+	app.use(createMediaAssetsMiddleware(() => join(__dirname, "..")));
 	const adSenseRuntimeConfig = loadAdSenseRuntimeConfig(__dirname);
 	const indexNowKey = loadIndexNowKey(__dirname);
 
