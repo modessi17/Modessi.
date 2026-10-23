@@ -1,1827 +1,526 @@
 {
   "logo/horizontal": {
     "mediaType": "logo",
-    "currentUrl": "/airo-assets/uploads/b68c3416573c7a6f15dc64344dcfd5ee.png",
-    "searchQuery": "Rebuild source logo (favicon)",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-15T03:55:49.222Z",
-    "lastUpdated": "2026-10-15T03:55:49.222Z"
+    "currentUrl": "/airo-assets/uploads/b68c3416573c7a6f15dc64344dcfd5ee.png"
   },
   "pages/home/experience-bathroom": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/f6c7c3996645abf13b504f69ad0b982d.jpeg",
-    "searchQuery": "luxury bathroom walk-in shower marble gold brass fixtures",
-    "alternatives": [
-      "/airo-assets/uploads/13e4ac27611f4b636eb541fe6e78bc2a.png",
-      "/airo-assets/uploads/ab411a6b5cc3501775a8c96b07296cae.jpg",
-      "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg",
-      "/airo-assets/uploads/d51df992f5364eee49c7315b0c0423ea.jpg",
-      "/airo-assets/uploads/6ecd5c15227872ecb526182de41e8f53.jpg"
-    ],
-    "userModified": false,
-    "createdAt": "2026-10-15T03:56:24.208Z",
-    "lastUpdated": "2026-10-15T03:56:24.208Z"
+    "currentUrl": "/airo-assets/uploads/f6c7c3996645abf13b504f69ad0b982d.jpeg"
   },
   "pages/home/about-bathroom": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/ab411a6b5cc3501775a8c96b07296cae.jpg",
-    "searchQuery": "modern renovated bathroom vanity shower black fixtures contemporary",
-    "alternatives": [
-      "/airo-assets/uploads/13e4ac27611f4b636eb541fe6e78bc2a.png",
-      "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg",
-      "/airo-assets/uploads/6ecd5c15227872ecb526182de41e8f53.jpg",
-      "/airo-assets/uploads/1f06d86d47e22bdc6b4493a025496a7e.jpg",
-      "/airo-assets/uploads/639a1faa6fb52829403ee04f3eaf199f.jpg"
-    ],
-    "userModified": false,
-    "createdAt": "2026-10-15T03:56:24.216Z",
-    "lastUpdated": "2026-10-15T03:56:24.216Z"
+    "currentUrl": "/airo-assets/uploads/ab411a6b5cc3501775a8c96b07296cae.jpg"
   },
   "pages/home/hero": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/13e4ac27611f4b636eb541fe6e78bc2a.png",
-    "searchQuery": "luxurious modern bathroom freestanding bathtub marble panoramic",
-    "alternatives": [
-      "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg",
-      "/airo-assets/uploads/d51df992f5364eee49c7315b0c0423ea.jpg",
-      "/airo-assets/uploads/6ecd5c15227872ecb526182de41e8f53.jpg",
-      "/airo-assets/uploads/1f06d86d47e22bdc6b4493a025496a7e.jpg",
-      "/airo-assets/uploads/639a1faa6fb52829403ee04f3eaf199f.jpg"
-    ],
-    "userModified": false,
-    "createdAt": "2026-10-15T03:56:24.219Z",
-    "lastUpdated": "2026-10-15T03:56:24.219Z"
+    "currentUrl": "/airo-assets/uploads/13e4ac27611f4b636eb541fe6e78bc2a.png"
   },
   "pages/home/education-blueprints": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-6-b991ea97.jpg",
-    "searchQuery": "architect reviewing blueprints with construction tools",
-    "alternatives": [
-      "/airo-assets/uploads/d51df992f5364eee49c7315b0c0423ea.jpg",
-      "/airo-assets/uploads/370c35bcc2042a1eef227d0089aa63c8.jpg",
-      "/airo-assets/uploads/1f06d86d47e22bdc6b4493a025496a7e.jpg",
-      "/airo-assets/uploads/639a1faa6fb52829403ee04f3eaf199f.jpg",
-      "/airo-assets/uploads/6ecd5c15227872ecb526182de41e8f53.jpg",
-      "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T03:56:24.252Z",
-    "lastUpdated": "2026-10-16T00:46:30.882Z",
-    "caption": "architect reviewing blueprints with construction tools"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-6-b991ea97.jpg"
   },
   "pages/home/process-shower": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg",
-    "searchQuery": "frameless glass shower enclosure black trim modern bathroom",
-    "alternatives": [
-      "/airo-assets/uploads/1f06d86d47e22bdc6b4493a025496a7e.jpg",
-      "/airo-assets/uploads/639a1faa6fb52829403ee04f3eaf199f.jpg",
-      "/airo-assets/uploads/6ecd5c15227872ecb526182de41e8f53.jpg",
-      "/airo-assets/uploads/370c35bcc2042a1eef227d0089aa63c8.jpg"
-    ],
-    "userModified": false,
-    "createdAt": "2026-10-15T03:56:24.258Z",
-    "lastUpdated": "2026-10-15T03:56:24.258Z"
+    "currentUrl": "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg"
   },
   "pages/gallery/photo-1": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-1-e86c708d.jpg",
-    "searchQuery": "modern bathroom with marble shower and vanity",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-1-17a96d8d.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:46:27.034Z",
-    "lastUpdated": "2026-10-15T04:52:35.944Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-1-17a96d8d.jpg": "f72c150d46f32f3b2546e6d91bde787d.jpeg",
-      "/airo-assets/uploads/pages-gallery-photo-1-e86c708d.jpg": "cf628276e02e868b7a56f063b1415bf9.jpeg"
-    },
-    "uploadContentHash": "1b455d99b244018449d71b4f77655399d8c11d83fcb9b9b4b04be73e063f02e4",
-    "caption": "modern bathroom with marble shower and vanity"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-1-e86c708d.jpg"
   },
   "pages/gallery/photo-3": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-3-abd8c70c.jpg",
-    "searchQuery": "wood plank tile flooring kitchen cabinets",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:46:27.373Z",
-    "lastUpdated": "2026-10-15T04:46:27.373Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-3-abd8c70c.jpg": "d818b0218cb2364149f2c149191b36f0.jpg"
-    },
-    "uploadContentHash": "b6e9ab5caee7e97232f859657dec4bbf551587efb6c2c7866eaac5b98245c8e9",
-    "caption": "wood plank tile flooring kitchen cabinets"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-3-abd8c70c.jpg"
   },
   "pages/gallery/photo-2": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-2-a17d900d.jpg",
-    "searchQuery": "modern bathroom shower enclosure glass doors",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-2-ab972520.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:46:27.744Z",
-    "lastUpdated": "2026-10-15T04:49:11.337Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-2-ab972520.jpg": "20525505fbea2b3156104dbb7e3c5b70.jpg",
-      "/airo-assets/uploads/pages-gallery-photo-2-a17d900d.jpg": "1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg"
-    },
-    "uploadContentHash": "1dc265afa3b12661d3f05df8d5886c32cfd6e855e4baf31f071664e1d0e02457",
-    "caption": "modern bathroom shower enclosure glass doors"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-2-a17d900d.jpg"
   },
   "pages/gallery/photo-4": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-4-63f5d802.jpg",
-    "searchQuery": "modern bathroom with black vanity and round mirror",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:46:28.853Z",
-    "lastUpdated": "2026-10-15T04:51:16.156Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg": "b88a49a0d870bdd08cc11a388ece136a.jpg",
-      "/airo-assets/uploads/pages-gallery-photo-4-63f5d802.jpg": "096af04a4cc317a409d0c6780e73cf6a.jpg"
-    },
-    "uploadContentHash": "516cb60e389406bddfc0fe9f6ddcb935aa763e41c5471aa1965ab12fd186f052",
-    "caption": "modern bathroom with black vanity and round mirror"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-4-63f5d802.jpg"
   },
   "imported/image-1792039752024": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-2-ab972520.jpg",
-    "searchQuery": "modern white bathroom with glass shower enclosure",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-2-ab972520.jpg"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/gallery/photo-2",
-    "createdAt": "2026-10-15T04:49:12.025Z",
-    "lastUpdated": "2026-10-15T04:49:12.025Z",
-    "caption": "modern white bathroom with glass shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-2-ab972520.jpg"
   },
   "imported/image-1792039876715": {
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1794041309",
-    "searchQuery": "modern luxury bathroom with freestanding tub",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-8-0a0c3849.jpg",
-      "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg"
-    ],
-    "userModified": true,
-    "displacedFrom": "pages/gallery/photo-4",
-    "createdAt": "2026-10-15T04:51:16.716Z",
-    "lastUpdated": "2026-10-16T00:35:44.306Z",
-    "gettyId": "1794041309",
-    "caption": "modern luxury bathroom with freestanding tub"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1794041309"
   },
   "imported/image-1792039956390": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-5-516a31a0.jpg",
-    "searchQuery": "modern home gym with fireplace",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-1-17a96d8d.jpg"
-    ],
-    "userModified": true,
-    "displacedFrom": "pages/gallery/photo-1",
-    "createdAt": "2026-10-15T04:52:36.390Z",
-    "lastUpdated": "2026-10-16T00:38:28.576Z",
-    "caption": "modern home gym with fireplace"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-5-516a31a0.jpg"
   },
   "pages/gallery/photo-5": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/f6c7c3996645abf13b504f69ad0b982d.jpeg",
-    "searchQuery": "",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-16-1b0677f4.jpg",
-      "/airo-assets/uploads/pages-gallery-photo-5-516a31a0.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:54:44.574Z",
-    "lastUpdated": "2026-10-16T00:49:57.260Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-5-516a31a0.jpg": "e80c1f8c5a51e51d62a79a7d7bfb3f09.jpg"
-    },
-    "uploadContentHash": "49ad45eb6c1a3b297d53504150968800b6338f7acf1b111218079d535afb3e17"
+    "currentUrl": "/airo-assets/uploads/f6c7c3996645abf13b504f69ad0b982d.jpeg"
   },
   "pages/gallery/photo-6": {
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2190779842",
-    "searchQuery": "modern luxury bathroom with freestanding tub",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg",
-      "/airo-assets/uploads/1b6345d8a7ee5f0afbef92bbd1e02f09.jpeg",
-      "/airo-assets/uploads/pages-gallery-photo-15-512ca2b1.jpg",
-      "/airo-assets/uploads/pages-gallery-photo-6-b991ea97.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:54:44.880Z",
-    "lastUpdated": "2026-10-16T00:54:29.907Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-6-b991ea97.jpg": "6bfe047b739f35118d040b605661bee0.jpg"
-    },
-    "uploadContentHash": "899791cc7dc355d583a15857d6a760780bdf2f65071e355b1590287df9fb7a83",
-    "gettyId": "2190779842",
-    "caption": "modern luxury bathroom with freestanding tub"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2190779842"
   },
   "pages/gallery/photo-7": {
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1465654643",
-    "searchQuery": "interior designers reviewing color and material samples",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-33-2cb23df6.jpg",
-      "/airo-assets/uploads/pages-gallery-photo-12-60eff7e1.jpg",
-      "https://img1.wsimg.com/isteam/getty/2277169597",
-      "https://img1.wsimg.com/isteam/getty/2252438768",
-      "/airo-assets/uploads/pages-gallery-photo-7-c1535d7c.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:54:45.736Z",
-    "lastUpdated": "2026-10-17T05:16:59.398Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-7-c1535d7c.jpg": "361445b03ce20c0668f0fc2da145692c.jpg"
-    },
-    "uploadContentHash": "dac8e917910ce957834673f70b5d20984f70c928a57c2982a2e7d0344ec7826c",
-    "alternativeGettyIds": [
-      "",
-      "",
-      "2277169597",
-      "2252438768",
-      ""
-    ],
-    "gettyId": "1465654643",
-    "caption": "interior designers reviewing color and material samples"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1465654643"
   },
   "pages/gallery/photo-8": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-8-0a0c3849.jpg",
-    "searchQuery": "modern bathroom with glass shower and bathtub",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:54:46.493Z",
-    "lastUpdated": "2026-10-15T04:54:46.493Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-8-0a0c3849.jpg": "fb27ead2595194199bede62e33cfcf56.jpg"
-    },
-    "uploadContentHash": "8aef541fa72da83172ba5349b9bd820361c6c3c7d968b274619cbecf8cbeb51a",
-    "caption": "modern bathroom with glass shower and bathtub"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-8-0a0c3849.jpg"
   },
   "pages/gallery/photo-9": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-9-28396d7b.jpg",
-    "searchQuery": "modern bathroom with glass shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:57:42.131Z",
-    "lastUpdated": "2026-10-15T04:57:42.131Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-9-28396d7b.jpg": "8ff3842324d872671c3f4cb424030eaa.jpg"
-    },
-    "uploadContentHash": "4e46654e2a235a7a30a70634105614bdfae48c84d9a15918a48f356dd8d8c316",
-    "caption": "modern bathroom with glass shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-9-28396d7b.jpg"
   },
   "pages/gallery/photo-10": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-10-00fa79a4.jpg",
-    "searchQuery": "modern bathroom with marble flooring black vanity",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:57:43.088Z",
-    "lastUpdated": "2026-10-15T04:57:43.088Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-10-00fa79a4.jpg": "d01333670b011a36a9d42e9fcd2f76c3.jpg"
-    },
-    "uploadContentHash": "65e0aa77159bdae6262e14eed86cdd99a8707d7b0504a4f440fd2f2a0b9ecce4",
-    "caption": "modern bathroom with marble flooring black vanity"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-10-00fa79a4.jpg"
   },
   "pages/gallery/photo-11": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-11-8e17fd8b.jpg",
-    "searchQuery": "modern bathroom with glass shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:57:43.984Z",
-    "lastUpdated": "2026-10-15T04:57:43.984Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-11-8e17fd8b.jpg": "c0fb8e320978d723954076df8869c5cf.jpg"
-    },
-    "uploadContentHash": "0a4b20af447088d636c57f56864f9434759bdbd977a3574703db06b3bfec3211",
-    "caption": "modern bathroom with glass shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-11-8e17fd8b.jpg"
   },
   "pages/gallery/photo-12": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-1-17a96d8d.jpg",
-    "searchQuery": "modern bathroom shower enclosure black frame",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-12-60eff7e1.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-15T04:57:44.671Z",
-    "lastUpdated": "2026-10-16T00:49:08.764Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-12-60eff7e1.jpg": "9a5fa8865a902818dff7034a30e397fb.jpg"
-    },
-    "uploadContentHash": "287ec7cba7ac2943587358b2ad3d7c29056ee56cab6466d54d4fcd85f7bd7793",
-    "caption": "modern bathroom shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-1-17a96d8d.jpg"
   },
   "pages/gallery/photo-13": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-13-d1eb0109.jpg",
-    "searchQuery": "modern bathroom with dual vanity sink",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T05:26:26.732Z",
-    "lastUpdated": "2026-10-15T05:26:26.732Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-13-d1eb0109.jpg": "b236c970fe03126e9327de2dde642aba.jpg"
-    },
-    "uploadContentHash": "b3ed3b1224861d4441eaa58d32e32c24f56d69523b2fab3a6d767ce124dc5aa6",
-    "caption": "modern bathroom with dual vanity sink"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-13-d1eb0109.jpg"
   },
   "pages/gallery/photo-14": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-14-45251f63.jpg",
-    "searchQuery": "modern bathroom with penguin artwork",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T05:26:29.879Z",
-    "lastUpdated": "2026-10-15T05:26:29.879Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-14-45251f63.jpg": "b16bd4110ef3ecc58fff4d248b71e2f3.png"
-    },
-    "uploadContentHash": "557e9c437789f7d9b6f26dd987846871e934155941fce447d39de7068889d2ba",
-    "caption": "modern bathroom with penguin artwork"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-14-45251f63.jpg"
   },
   "pages/gallery/photo-15": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-15-512ca2b1.jpg",
-    "searchQuery": "modern bathroom shower enclosure marble",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T05:26:33.982Z",
-    "lastUpdated": "2026-10-15T05:26:33.982Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-15-512ca2b1.jpg": "f519abdb92504f4121e7d04839f7b566.jpg"
-    },
-    "uploadContentHash": "845843f9dff5383a5428f98f6c8ea31082bffc8e5612ae3f2bb5e2cd3012bdb6",
-    "caption": "modern bathroom shower enclosure marble"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-15-512ca2b1.jpg"
   },
   "pages/gallery/photo-16": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-16-1b0677f4.jpg",
-    "searchQuery": "modern bathroom shower glass enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-15T05:26:37.540Z",
-    "lastUpdated": "2026-10-15T05:26:37.540Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-16-1b0677f4.jpg": "598c56fb1a9eb39961a33184807807a4.jpg"
-    },
-    "uploadContentHash": "eb2728991fec1e24c436df30e0c04205abf5f7774283c6b140ba938ceae54e76",
-    "caption": "modern bathroom shower glass enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-16-1b0677f4.jpg"
   },
   "imported/image-1792110908155": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-7-c1535d7c.jpg",
-    "searchQuery": "modern bathroom vanity with marble countertop",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-7-c1535d7c.jpg"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/gallery/photo-7",
-    "createdAt": "2026-10-16T00:35:08.155Z",
-    "lastUpdated": "2026-10-16T00:35:08.155Z",
-    "caption": "modern bathroom vanity with marble countertop"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-7-c1535d7c.jpg"
   },
   "imported/image-1792111059066": {
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2252438768",
-    "searchQuery": "modern bathroom vanity with arched mirrors",
-    "alternatives": [
-      "https://img1.wsimg.com/isteam/getty/2252438768"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/gallery/photo-7",
-    "createdAt": "2026-10-16T00:37:39.067Z",
-    "lastUpdated": "2026-10-16T00:37:39.067Z",
-    "caption": "modern bathroom vanity with arched mirrors"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2252438768"
   },
   "imported/image-1792111365562": {
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2277169597",
-    "searchQuery": "modern bathroom with ocean view window",
-    "alternatives": [
-      "https://img1.wsimg.com/isteam/getty/2277169597"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/gallery/photo-7",
-    "createdAt": "2026-10-16T00:42:45.563Z",
-    "lastUpdated": "2026-10-16T00:42:45.563Z",
-    "caption": "modern bathroom with ocean view window"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2277169597"
   },
   "imported/image-1792111591469": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/d51df992f5364eee49c7315b0c0423ea.jpg",
-    "searchQuery": "",
-    "alternatives": [
-      "/airo-assets/uploads/d51df992f5364eee49c7315b0c0423ea.jpg"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/home/education-blueprints",
-    "createdAt": "2026-10-16T00:46:31.470Z",
-    "lastUpdated": "2026-10-16T00:46:31.470Z"
+    "currentUrl": "/airo-assets/uploads/d51df992f5364eee49c7315b0c0423ea.jpg"
   },
   "imported/image-1792112070693": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg",
-    "searchQuery": "wooden deck with evergreen trees backdrop",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/gallery/photo-6",
-    "createdAt": "2026-10-16T00:54:30.694Z",
-    "lastUpdated": "2026-10-16T00:54:30.694Z",
-    "caption": "wooden deck with evergreen trees backdrop"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-4-4e020d8d.jpg"
   },
   "imported/image-1792112082437": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-12-60eff7e1.jpg",
-    "searchQuery": "modern bathroom with freestanding tub plants",
-    "alternatives": [
-      "/airo-assets/uploads/pages-gallery-photo-12-60eff7e1.jpg"
-    ],
-    "userModified": false,
-    "displacedFrom": "pages/gallery/photo-7",
-    "createdAt": "2026-10-16T00:54:42.438Z",
-    "lastUpdated": "2026-10-16T00:54:42.438Z",
-    "caption": "modern bathroom with freestanding tub plants"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-12-60eff7e1.jpg"
   },
   "pages/gallery/photo-17": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-17-e8b952cf.jpg",
-    "searchQuery": "modern marble shower enclosure bathroom",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:03.399Z",
-    "lastUpdated": "2026-10-17T03:48:03.399Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-17-e8b952cf.jpg": "ki1f5sc11p_1792208838948_file_p5nj8t78K3.jpeg"
-    },
-    "uploadContentHash": "d56a29765e7f65041671abd3093b3e5b5a45ba4b1186e490c22b4a9929523023",
-    "caption": "modern marble shower enclosure bathroom"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-17-e8b952cf.jpg"
   },
   "pages/gallery/photo-18": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-18-d7881158.jpg",
-    "searchQuery": "modern bathroom with glass shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:04.000Z",
-    "lastUpdated": "2026-10-17T03:48:04.000Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-18-d7881158.jpg": "ki1f5sc11p_1792208838951_file_Z1OOrUllwB.jpeg"
-    },
-    "uploadContentHash": "66338ac64b0fffb0fc234cb95d98fbe8812fb9fe2bd9a0f55951a933efeebcfe",
-    "caption": "modern bathroom with glass shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-18-d7881158.jpg"
   },
   "pages/gallery/photo-19": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-19-f259e6bc.jpg",
-    "searchQuery": "modern bathroom shower enclosure black frame",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:04.519Z",
-    "lastUpdated": "2026-10-17T03:48:04.519Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-19-f259e6bc.jpg": "ki1f5sc11p_1792208838952_file_EA94H0SvgR.jpeg"
-    },
-    "uploadContentHash": "d789c9088bfffc6dc66d6b8c1b6cb72f4c843226279dc4ab70cb0fb8c5e547db",
-    "caption": "modern bathroom shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-19-f259e6bc.jpg"
   },
   "pages/gallery/photo-20": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-20-71956fd4.jpg",
-    "searchQuery": "modern bathroom with marble shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:05.027Z",
-    "lastUpdated": "2026-10-17T03:48:05.027Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-20-71956fd4.jpg": "ki1f5sc11p_1792208838953_file_yUbXAU8ERb.jpeg"
-    },
-    "uploadContentHash": "b4b9289434df6db0114aed42b4a053bf8dbf59443867a6d65c9e917b0ad8c8d3",
-    "caption": "modern bathroom with marble shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-20-71956fd4.jpg"
   },
   "pages/gallery/photo-21": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-21-21f1b0c7.jpg",
-    "searchQuery": "modern marble bathroom shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:05.461Z",
-    "lastUpdated": "2026-10-17T03:48:05.461Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-21-21f1b0c7.jpg": "ki1f5sc11p_1792208838955_file_znWEAl1fuC.jpeg"
-    },
-    "uploadContentHash": "bd2bc4c57146529f6555598216068afc6b1a9d6309357e9a51980f4e8172f3f2",
-    "caption": "modern marble bathroom shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-21-21f1b0c7.jpg"
   },
   "pages/gallery/photo-22": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-22-7b25a09d.jpg",
-    "searchQuery": "modern marble shower enclosure black fixtures",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:05.896Z",
-    "lastUpdated": "2026-10-17T03:48:05.896Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-22-7b25a09d.jpg": "ki1f5sc11p_1792208839574_file_DT2LvzhXm8.jpeg"
-    },
-    "uploadContentHash": "76778edc013e06c70545af6de5b86aad83b6e16a1e0b9cd6b9b45b170afdf495",
-    "caption": "modern marble shower enclosure black fixtures"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-22-7b25a09d.jpg"
   },
   "pages/gallery/photo-23": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-23-376b45f9.jpg",
-    "searchQuery": "modern marble tile bathroom shower tub",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:06.381Z",
-    "lastUpdated": "2026-10-17T03:48:06.381Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-23-376b45f9.jpg": "ki1f5sc11p_1792208839576_file_vl7NV0wjaq.jpeg"
-    },
-    "uploadContentHash": "fd38e9c7003977bd4fb8588a2e330abc66365185ef3ac11d8f535fafb80da116",
-    "caption": "modern marble tile bathroom shower tub"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-23-376b45f9.jpg"
   },
   "pages/gallery/photo-24": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-24-502ec8bc.png",
-    "searchQuery": "modern bathroom with marble shower tub combo",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:06.706Z",
-    "lastUpdated": "2026-10-17T03:48:06.706Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-24-502ec8bc.png": "ki1f5sc11p_1792208839578_file_7CFQ5zfTE2.PNG"
-    },
-    "uploadContentHash": "ef377f3149af93a76fe9a6750aa161b4cb490484dce7104a83437c4fe21185ed",
-    "caption": "modern bathroom with marble shower tub combo"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-24-502ec8bc.png"
   },
   "pages/gallery/photo-26": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-26-d9449b62.jpg",
-    "searchQuery": "modern bathroom with marble shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:07.216Z",
-    "lastUpdated": "2026-10-17T03:48:07.216Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-26-d9449b62.jpg": "ki1f5sc11p_1792208839584_file_7FLYqc5ozk.jpeg"
-    },
-    "uploadContentHash": "9cca0680dbef903c879aa00a73888d9984aec6f2b925ac7e5b966e6141c67a38",
-    "caption": "modern bathroom with marble shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-26-d9449b62.jpg"
   },
   "pages/gallery/photo-25": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-25-d575d3d4.jpg",
-    "searchQuery": "modern bathroom shower glass enclosure marble",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:48:07.702Z",
-    "lastUpdated": "2026-10-17T03:48:07.702Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-25-d575d3d4.jpg": "ki1f5sc11p_1792208839581_file_bHw49KylsQ.jpeg"
-    },
-    "uploadContentHash": "10991a086809822218302fcc1b3f3e3b112424bdb806a33b41da53ab1c8bee53",
-    "caption": "modern bathroom shower glass enclosure marble"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-25-d575d3d4.jpg"
   },
   "pages/gallery/photo-27": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-27-309b89a5.jpg",
-    "searchQuery": "modern marble bathroom shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:04.474Z",
-    "lastUpdated": "2026-10-17T03:50:04.474Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-27-309b89a5.jpg": "ki1f5sc11p_1792208984586_file_DH2rHQSP0b.jpeg"
-    },
-    "uploadContentHash": "df9b37711e82076eb4257564611ed9d07d760a965659be09d1dbc6e2074c6244",
-    "caption": "modern marble bathroom shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-27-309b89a5.jpg"
   },
   "pages/gallery/photo-28": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-28-a964d817.jpg",
-    "searchQuery": "modern bathroom shower enclosure marble tile",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:12.868Z",
-    "lastUpdated": "2026-10-17T03:50:12.868Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-28-a964d817.jpg": "ki1f5sc11p_1792208984589_file_j5TkkF-ORh.JPG"
-    },
-    "uploadContentHash": "4ffd248979bf971ab689f050611acec87947c18ad956b4040617cedb3c6f7b10",
-    "caption": "modern bathroom shower enclosure marble tile"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-28-a964d817.jpg"
   },
   "pages/gallery/photo-29": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-29-13da3fbc.jpg",
-    "searchQuery": "modern bathroom with marble shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:19.934Z",
-    "lastUpdated": "2026-10-17T03:50:19.934Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-29-13da3fbc.jpg": "ki1f5sc11p_1792208984591_file_Ig1I1tFM5Z.jpeg"
-    },
-    "uploadContentHash": "575437a5bf9ea9db91cad636da9dad453d5528523ef8cfa7102e1f800540d8dd",
-    "caption": "modern bathroom with marble shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-29-13da3fbc.jpg"
   },
   "pages/gallery/photo-30": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-30-4577b329.jpg",
-    "searchQuery": "modern bathroom shower enclosure black fixtures",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:27.911Z",
-    "lastUpdated": "2026-10-17T03:50:27.911Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-30-4577b329.jpg": "ki1f5sc11p_1792208984593_file_76Hvyi39fD.jpeg"
-    },
-    "uploadContentHash": "bce293a8e8eaf0e68406c0eb00d83d379cc119e6dc32416bd5db15e3f3f46eb3",
-    "caption": "modern bathroom shower enclosure black fixtures"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-30-4577b329.jpg"
   },
   "pages/gallery/photo-31": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-31-0ee8f441.jpg",
-    "searchQuery": "modern bathroom vanity with illuminated mirror",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:33.684Z",
-    "lastUpdated": "2026-10-17T03:50:33.684Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-31-0ee8f441.jpg": "ki1f5sc11p_1792208984594_file_Dst-xUkE_f.jpeg"
-    },
-    "uploadContentHash": "949b32ab34ec83f74eb665e71ce402ca5c2846bae88661f6d4835b6fe5323240",
-    "caption": "modern bathroom vanity with illuminated mirror"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-31-0ee8f441.jpg"
   },
   "pages/gallery/photo-32": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-32-a6d76cb9.jpg",
-    "searchQuery": "modern bathroom with marble tile shower",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:42.244Z",
-    "lastUpdated": "2026-10-17T03:50:42.244Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-32-a6d76cb9.jpg": "ki1f5sc11p_1792208985509_file_5fzZ0hq69-.jpeg"
-    },
-    "uploadContentHash": "63b1ea9180f324bb235fe0e38d015119c23e57d41414605a49c64a072e1759cb",
-    "caption": "modern bathroom with marble tile shower"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-32-a6d76cb9.jpg"
   },
   "pages/gallery/photo-33": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-33-2cb23df6.jpg",
-    "searchQuery": "modern bathroom shower enclosure black frame",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:49.810Z",
-    "lastUpdated": "2026-10-17T03:50:49.810Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-33-2cb23df6.jpg": "ki1f5sc11p_1792208985511_file_qZ2JtovouR.jpeg"
-    },
-    "uploadContentHash": "95dc2494ace54775709cbf04b4ed3d8ebcd333adbf05236015676ad8830af38b",
-    "caption": "modern bathroom shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-33-2cb23df6.jpg"
   },
   "pages/gallery/photo-34": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-34-4e13ac88.jpg",
-    "searchQuery": "modern bathroom with glass shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:50:57.030Z",
-    "lastUpdated": "2026-10-17T03:50:57.030Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-34-4e13ac88.jpg": "ki1f5sc11p_1792208985511_file_-vcgeoHdCA.jpeg"
-    },
-    "uploadContentHash": "88bbc13ff365697a082a540506aee53d986ada8399d767820c2f0489b8c582ed",
-    "caption": "modern bathroom with glass shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-34-4e13ac88.jpg"
   },
   "pages/gallery/photo-35": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-35-be9f9e7a.jpg",
-    "searchQuery": "modern glass shower enclosure bathroom",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:51:03.040Z",
-    "lastUpdated": "2026-10-17T03:51:03.040Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-35-be9f9e7a.jpg": "ki1f5sc11p_1792208985513_file_gCg6Oybmz9.jpeg"
-    },
-    "uploadContentHash": "bee34989e9945ec2abcb39b6f6724a98b0c63c347c0ec34f55739ef08e6a574c",
-    "caption": "modern glass shower enclosure bathroom"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-35-be9f9e7a.jpg"
   },
   "pages/gallery/photo-36": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-36-c374d2de.jpg",
-    "searchQuery": "modern bathroom with glass shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T03:51:09.555Z",
-    "lastUpdated": "2026-10-17T03:51:09.555Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-36-c374d2de.jpg": "ki1f5sc11p_1792208985515_file_UvnPB7lrdW.jpeg"
-    },
-    "uploadContentHash": "c3b00bcafd1eec3e14d4586343a0bc9d661af01e25f46e16bc25639982d6af2d",
-    "caption": "modern bathroom with glass shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-36-c374d2de.jpg"
   },
   "pages/gallery/photo-37": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-37-450de66f.jpg",
-    "searchQuery": "modern bathroom shower enclosure green tile",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:01:55.311Z",
-    "lastUpdated": "2026-10-17T04:01:55.311Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-37-450de66f.jpg": "ki1f5sc11p_1792209334263_file_-wYEWoU50d.jpeg"
-    },
-    "uploadContentHash": "ad15f8751774adaf191a5c3ee3c244d5f8df0d72acca424c672ef156725bbfcf",
-    "caption": "modern bathroom shower enclosure green tile"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-37-450de66f.jpg"
   },
   "pages/gallery/photo-38": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-38-5a4e33fb.jpg",
-    "searchQuery": "modern bathroom shower enclosure glass doors",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:01:59.862Z",
-    "lastUpdated": "2026-10-17T04:01:59.862Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-38-5a4e33fb.jpg": "ki1f5sc11p_1792209334264_file_nTqbDyzPlm.jpeg"
-    },
-    "uploadContentHash": "800cb9afc135dd9d7347570c4f04152a165a57233d5c9b80ae1550e6da43fc45",
-    "caption": "modern bathroom shower enclosure glass doors"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-38-5a4e33fb.jpg"
   },
   "pages/gallery/photo-39": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-39-2497520b.png",
-    "searchQuery": "modern glass shower enclosure bathroom",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:02:03.525Z",
-    "lastUpdated": "2026-10-17T04:02:03.525Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-39-2497520b.png": "ki1f5sc11p_1792209334268_file_O8SzxUrmmy.PNG"
-    },
-    "uploadContentHash": "cd674bcf20ad8e2759fa6f0fb45bdfc1912f4a3c1e9e66b700589b98eb0be0bf",
-    "caption": "modern glass shower enclosure bathroom"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-39-2497520b.png"
   },
   "pages/gallery/photo-40": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-40-9841bdfc.jpg",
-    "searchQuery": "modern bathroom with marble shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:02:07.743Z",
-    "lastUpdated": "2026-10-17T04:02:07.743Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-40-9841bdfc.jpg": "ki1f5sc11p_1792209334272_file_qdW2tL14fm.jpeg"
-    },
-    "uploadContentHash": "1583e952066cbbe47e84f4401fb473484b2946626aef0e76961130d0eefe5c3d",
-    "caption": "modern bathroom with marble shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-40-9841bdfc.jpg"
   },
   "pages/gallery/photo-43": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-43-ee6a5e24.jpg",
-    "searchQuery": "modern marble shower enclosure with glass doors",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:12:09.091Z",
-    "lastUpdated": "2026-10-17T04:12:09.091Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-43-ee6a5e24.jpg": "ki1f5sc11p_1792209333622_file_CCU76OVFYY.jpeg"
-    },
-    "uploadContentHash": "2bcf548f9dd6d84974f18b21051aa7ea6552c29f0546a56e1d4150b31e17cc5c",
-    "caption": "modern marble shower enclosure with glass doors"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-43-ee6a5e24.jpg"
   },
   "pages/gallery/photo-44": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-44-51831fb4.jpg",
-    "searchQuery": "modern bathroom with marble shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:12:09.612Z",
-    "lastUpdated": "2026-10-17T04:12:09.612Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-44-51831fb4.jpg": "ki1f5sc11p_1792209333625_file_IWRgyC6Vih.jpeg"
-    },
-    "uploadContentHash": "ae478c650ca7d484402767eeca19152b6a5b3a1a4e239d6f85fef463da68c82b",
-    "caption": "modern bathroom with marble shower enclosure"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-44-51831fb4.jpg"
   },
   "pages/gallery/photo-42": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-42-b7006021.jpg",
-    "searchQuery": "modern glass shower enclosure black frame",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:12:10.070Z",
-    "lastUpdated": "2026-10-17T04:12:10.070Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-42-b7006021.jpg": "ki1f5sc11p_1792209333628_file_OwjsWg34TZ.jpeg"
-    },
-    "uploadContentHash": "69fb009ed4884aa70f78c667578271f84da60b7579111f372cf45308cb62ff23",
-    "caption": "modern glass shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-42-b7006021.jpg"
   },
   "pages/gallery/photo-41": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-41-d1ab74b0.jpg",
-    "searchQuery": "modern bathroom shower enclosure black frame",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-17T04:12:10.548Z",
-    "lastUpdated": "2026-10-17T04:12:10.548Z",
-    "uploadSources": {
-      "/airo-assets/uploads/pages-gallery-photo-41-d1ab74b0.jpg": "ki1f5sc11p_1792209333626_file_DqdAGV0BAV.jpeg"
-    },
-    "uploadContentHash": "0887eeea93af40e25e2ba90f37ed898a1795198416e846305dc348f3654928b9",
-    "caption": "modern bathroom shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-41-d1ab74b0.jpg"
   },
   "shower-builder/bench-teak": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1380717443",
-    "searchQuery": "teak wood shower bench seat",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:15.271Z",
-    "lastUpdated": "2026-10-19T04:08:15.271Z",
-    "gettyId": "1380717443"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1380717443"
   },
   "shower-builder/base-tile": {
-    "orientations": "square,horizontal",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/crop-and-zoom-in-tightly-to-show-only-th-rfa8C0.png",
-    "searchQuery": "tiled shower floor base close up ceramic tile drain",
-    "alternatives": [
-      "/airo-assets/uploads/crop-this-tiled-shower-floor-image-into--FMgcYP.png",
-      "/airo-assets/uploads/crop-and-zoom-into-the-bottom-portion-of-vhFmv3.png",
-      "https://img1.wsimg.com/isteam/getty/2295115626",
-      "https://img1.wsimg.com/isteam/getty/2263254020",
-      "https://img1.wsimg.com/isteam/getty/2166836629",
-      "https://img1.wsimg.com/isteam/getty/2297498272",
-      "https://img1.wsimg.com/isteam/getty/2291705420"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T04:08:15.570Z",
-    "lastUpdated": "2026-10-20T00:16:44.430Z",
-    "alternativeGettyIds": [
-      "",
-      "",
-      "2295115626",
-      "2263254020",
-      "2166836629",
-      "2297498272",
-      "2291705420"
-    ],
-    "caption": "tiled shower floor base close up ceramic tile drain",
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/crop-and-zoom-in-tightly-to-show-only-th-rfa8C0.png",
-      "/airo-assets/uploads/crop-this-tiled-shower-floor-image-into--FMgcYP.png",
-      "/airo-assets/uploads/crop-and-zoom-into-the-bottom-portion-of-vhFmv3.png"
-    ]
+    "currentUrl": "/airo-assets/uploads/crop-and-zoom-in-tightly-to-show-only-th-rfa8C0.png"
   },
   "shower-builder/doors-open": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2180232878",
-    "searchQuery": "open walk-in shower no door modern",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:17.183Z",
-    "lastUpdated": "2026-10-19T04:08:17.183Z",
-    "gettyId": "2180232878"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2180232878"
   },
   "shower-builder/shelves-floating": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/993308336",
-    "searchQuery": "floating glass shower shelf modern",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:20.864Z",
-    "lastUpdated": "2026-10-19T04:08:20.864Z",
-    "gettyId": "993308336"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/993308336"
   },
   "shower-builder/tile-large-format": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1475867445",
-    "searchQuery": "large format grey porcelain tile shower wall",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:21.334Z",
-    "lastUpdated": "2026-10-19T04:08:21.334Z",
-    "gettyId": "1475867445"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1475867445"
   },
   "shower-builder/taps-brushed-gold": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2149057400",
-    "searchQuery": "brushed gold shower tap fixture luxury",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:23.242Z",
-    "lastUpdated": "2026-10-19T04:08:23.242Z",
-    "gettyId": "2149057400"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2149057400"
   },
   "shower-builder/taps-brushed-nickel": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2278783470",
-    "searchQuery": "brushed nickel shower faucet fixture",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:23.769Z",
-    "lastUpdated": "2026-10-19T04:08:23.769Z",
-    "gettyId": "2278783470"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2278783470"
   },
   "shower-builder/tile-black": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2296815030",
-    "searchQuery": "black matte tile shower wall modern",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:24.975Z",
-    "lastUpdated": "2026-10-19T04:08:24.975Z",
-    "gettyId": "2296815030"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2296815030"
   },
   "shower-builder/doors-frameless": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1300882429",
-    "searchQuery": "frameless glass shower door enclosure",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:25.939Z",
-    "lastUpdated": "2026-10-19T04:08:25.939Z",
-    "gettyId": "1300882429"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1300882429"
   },
   "shower-builder/doors-black-frame": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2252046317",
-    "searchQuery": "black frame glass shower door modern",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:27.056Z",
-    "lastUpdated": "2026-10-19T04:08:27.056Z",
-    "gettyId": "2252046317"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2252046317"
   },
   "shower-builder/bench-marble": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2174752214",
-    "searchQuery": "marble shower bench seat built-in",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:27.432Z",
-    "lastUpdated": "2026-10-19T04:08:27.432Z",
-    "gettyId": "2174752214"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2174752214"
   },
   "shower-builder/base-custom": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1453775278",
-    "searchQuery": "custom tiled shower floor mosaic",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:28.410Z",
-    "lastUpdated": "2026-10-19T04:08:28.410Z",
-    "gettyId": "1453775278"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1453775278"
   },
   "shower-builder/doors-sliding": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2267020614",
-    "searchQuery": "sliding glass shower door bathroom",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:30.277Z",
-    "lastUpdated": "2026-10-19T04:08:30.277Z",
-    "gettyId": "2267020614"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2267020614"
   },
   "shower-builder/tile-subway": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1366314445",
-    "searchQuery": "white subway tile shower wall",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:30.547Z",
-    "lastUpdated": "2026-10-19T04:08:30.547Z",
-    "gettyId": "1366314445"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1366314445"
   },
   "shower-builder/taps-matte-black": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1315010377",
-    "searchQuery": "matte black shower tap fixture",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:33.091Z",
-    "lastUpdated": "2026-10-19T04:08:33.091Z",
-    "gettyId": "1315010377"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1315010377"
   },
   "shower-builder/base-marble": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2223771074",
-    "searchQuery": "marble shower floor base luxury",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:34.081Z",
-    "lastUpdated": "2026-10-19T04:08:34.081Z",
-    "gettyId": "2223771074"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2223771074"
   },
   "shower-builder/taps-chrome": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1198452120",
-    "searchQuery": "chrome shower tap fixture modern",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:34.319Z",
-    "lastUpdated": "2026-10-19T04:08:34.319Z",
-    "gettyId": "1198452120"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1198452120"
   },
   "shower-builder/accessories-towel-bar": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2255445277",
-    "searchQuery": "modern towel bar bathroom chrome",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:35.163Z",
-    "lastUpdated": "2026-10-19T04:08:35.163Z",
-    "gettyId": "2255445277"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2255445277"
   },
   "shower-builder/tile-marble": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2242377727",
-    "searchQuery": "white marble wall tile bathroom shower",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:36.481Z",
-    "lastUpdated": "2026-10-19T04:08:36.481Z",
-    "gettyId": "2242377727"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2242377727"
   },
   "shower-builder/accessories-handheld": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2281893975",
-    "searchQuery": "handheld shower head wand chrome",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:37.840Z",
-    "lastUpdated": "2026-10-19T04:08:37.840Z",
-    "gettyId": "2281893975"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2281893975"
   },
   "shower-builder/base-stone": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1682540830",
-    "searchQuery": "stone resin shower base grey",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:38.406Z",
-    "lastUpdated": "2026-10-19T04:08:38.406Z",
-    "gettyId": "1682540830"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1682540830"
   },
   "shower-builder/bench-none": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2261320990",
-    "searchQuery": "clean minimal shower no bench open space",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:39.949Z",
-    "lastUpdated": "2026-10-19T04:08:39.949Z",
-    "gettyId": "2261320990"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2261320990"
   },
   "shower-builder/shelves-corner": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2291665725",
-    "searchQuery": "corner shower shelf caddy chrome",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:40.216Z",
-    "lastUpdated": "2026-10-19T04:08:40.216Z",
-    "gettyId": "2291665725"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2291665725"
   },
   "shower-builder/accessories-body-jets": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1392293980",
-    "searchQuery": "body jet shower spray wall mounted",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:41.314Z",
-    "lastUpdated": "2026-10-19T04:08:41.314Z",
-    "gettyId": "1392293980"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1392293980"
   },
   "shower-builder/shelves-niche": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1693174001",
-    "searchQuery": "recessed shower niche shelf tile",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:42.191Z",
-    "lastUpdated": "2026-10-19T04:08:42.191Z",
-    "gettyId": "1693174001"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1693174001"
   },
   "shower-builder/accessories-rainfall": {
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2211104205",
-    "searchQuery": "rainfall overhead shower head ceiling mount",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-19T04:08:43.156Z",
-    "lastUpdated": "2026-10-19T04:08:43.156Z",
-    "gettyId": "2211104205"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2211104205"
   },
   "shower-builder/base-slate-poly": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-base-slate-poly-1cbd5579.png",
-    "searchQuery": "black slate shower tray rectangular",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T04:43:38.509Z",
-    "lastUpdated": "2026-10-19T04:43:38.509Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-slate-poly-1cbd5579.png": "ki1f5sc11p_1792385006205_file_FGQjeVhJvc.png"
-    },
-    "uploadContentHash": "cf67e4223984a2538cb071cf01fcb6c53bd4beb37809bf41e5740f192222dce3",
-    "caption": "black slate shower tray rectangular"
+    "currentUrl": "/airo-assets/uploads/shower-builder-base-slate-poly-1cbd5579.png"
   },
   "shower-builder/base-white-poly": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-base-white-poly-cd1d09ff.png",
-    "searchQuery": "rectangular stone shower tray drain",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T04:43:42.642Z",
-    "lastUpdated": "2026-10-19T04:43:42.642Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-white-poly-cd1d09ff.png": "ki1f5sc11p_1792385006208_file_vxW4IZiJaL.png"
-    },
-    "uploadContentHash": "0fc12049d0b85fbd79c20d4ca7577e7e907c49941673ce375ff0e1401b338c3b",
-    "caption": "rectangular stone shower tray drain"
+    "currentUrl": "/airo-assets/uploads/shower-builder-base-white-poly-cd1d09ff.png"
   },
   "shower-builder/base-white-acrylic": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-base-white-acrylic-e421eaed.png",
-    "searchQuery": "white rectangular shower base drain hole",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T04:43:46.229Z",
-    "lastUpdated": "2026-10-19T04:43:46.229Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-white-acrylic-e421eaed.png": "ki1f5sc11p_1792385006209_file_RwxBFBktOg.png"
-    },
-    "uploadContentHash": "6f5a7d6320c8578552b243f7dd28789ac7ab2be7e852503e7593c90157cfa159",
-    "caption": "white rectangular shower base drain hole"
+    "currentUrl": "/airo-assets/uploads/shower-builder-base-white-acrylic-e421eaed.png"
   },
   "shower-builder/base-silica-white": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-base-silica-white-443429c2.png",
-    "searchQuery": "white rectangular shelf with slots",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T04:43:49.958Z",
-    "lastUpdated": "2026-10-19T04:43:49.958Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-silica-white-443429c2.png": "ki1f5sc11p_1792385006213_file_SA7H7r_Z6m.png"
-    },
-    "uploadContentHash": "4f57f021dcb127cc708ec9e0b5908c711d6b2131cb46898d216a881be691da9a",
-    "caption": "white rectangular shelf with slots"
+    "currentUrl": "/airo-assets/uploads/shower-builder-base-silica-white-443429c2.png"
   },
   "shower-builder/tile-carrara-medium": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-43-ee6a5e24.jpg",
-    "searchQuery": "modern marble shower enclosure with glass doors",
-    "alternatives": [
-      "/airo-assets/uploads/keep-the-same-white-marble-shower-wall-s-1vxbzP.png",
-      "/airo-assets/uploads/shower-builder-tile-carrara-medium-de51ffd2.jpg",
-      "/airo-assets/uploads/keep-the-same-shower-scene-but-increase--jRkP9Q.png",
-      "/airo-assets/uploads/keep-the-same-large-format-polished-whit-jG1ZQ_.png"
-    ],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/keep-the-same-white-marble-shower-wall-s-1vxbzP.png",
-      "/airo-assets/uploads/keep-the-same-shower-scene-but-increase--jRkP9Q.png",
-      "/airo-assets/uploads/keep-the-same-large-format-polished-whit-jG1ZQ_.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:34:40.914Z",
-    "lastUpdated": "2026-10-19T05:50:34.636Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-tile-carrara-medium-de51ffd2.jpg": "ki1f5sc11p_1792388549267_file_DHRwZ8B3Qb.jpg"
-    },
-    "uploadContentHash": "21f1b0c75a7b66a64950ac93f629b83dcf55c784635b33392b3f25309566c4a6",
-    "caption": "modern marble shower enclosure with glass doors"
+    "currentUrl": "/airo-assets/uploads/pages-gallery-photo-43-ee6a5e24.jpg"
   },
   "shower-builder/tile-carrara-heavy": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/keep-the-same-shower-scene-but-increase--ayOKz8.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [
-      "/airo-assets/uploads/keep-the-same-large-format-polished-whit-OcYgD_.png"
-    ],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/keep-the-same-shower-scene-but-increase--ayOKz8.png",
-      "/airo-assets/uploads/keep-the-same-large-format-polished-whit-OcYgD_.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:34:41.709Z",
-    "lastUpdated": "2026-10-19T05:43:13.673Z"
+    "currentUrl": "/airo-assets/uploads/keep-the-same-shower-scene-but-increase--ayOKz8.png"
   },
   "shower-builder/tile-carrara-light": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/shower-builder-tile-carrara-light-c411d1fa.jpg",
-    "searchQuery": "modern marble shower enclosure black fixtures",
-    "alternatives": [
-      "/airo-assets/uploads/zoom-in-and-crop-tighter-on-the-shower-w-J713H0.png",
-      "/airo-assets/uploads/shower-builder-tile-carrara-light-de51ffd2.jpg"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:34:58.047Z",
-    "lastUpdated": "2026-10-19T05:49:56.839Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-tile-carrara-light-c411d1fa.jpg": "ki1f5sc11p_1792388048355_file_fdIcz91LWj.jpg",
-      "/airo-assets/uploads/shower-builder-tile-carrara-light-de51ffd2.jpg": "ki1f5sc11p_1792388549267_file_DHRwZ8B3Qb.jpg"
-    },
-    "uploadContentHash": "7b25a09d2062ee73e110fcb9895ec0290422400707103d2e0b7e0bbd72367745",
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/zoom-in-and-crop-tighter-on-the-shower-w-J713H0.png"
-    ],
-    "caption": "modern marble shower enclosure black fixtures"
+    "currentUrl": "/airo-assets/uploads/shower-builder-tile-carrara-light-c411d1fa.jpg"
   },
   "shower-builder/tile-black-light": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-WPhKAT.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-WPhKAT.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:35:07.884Z",
-    "lastUpdated": "2026-10-19T05:35:07.884Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-WPhKAT.png"
   },
   "shower-builder/tile-black-heavy": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-TxrsjG.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-TxrsjG.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:35:08.060Z",
-    "lastUpdated": "2026-10-19T05:35:08.060Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-TxrsjG.png"
   },
   "shower-builder/tile-gray-heavy": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-LNY9au.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-LNY9au.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:35:08.406Z",
-    "lastUpdated": "2026-10-19T05:35:08.406Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-LNY9au.png"
   },
   "shower-builder/tile-gray-medium": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-0dp6Ra.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-0dp6Ra.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:35:08.599Z",
-    "lastUpdated": "2026-10-19T05:35:08.599Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-0dp6Ra.png"
   },
   "shower-builder/tile-black-medium": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-CYtPLq.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-CYtPLq.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:35:08.642Z",
-    "lastUpdated": "2026-10-19T05:35:08.642Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-CYtPLq.png"
   },
   "shower-builder/tile-gray-light": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-M1biqj.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-M1biqj.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:35:09.655Z",
-    "lastUpdated": "2026-10-19T05:35:09.655Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-pol-M1biqj.png"
   },
   "shower-builder/tile-zellige": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-to-feature-ze-ncEgQN.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-to-feature-ze-ncEgQN.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:38:35.022Z",
-    "lastUpdated": "2026-10-19T05:38:35.022Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-to-feature-ze-ncEgQN.png"
   },
   "shower-builder/tile-greige": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-lar-An43fv.png",
-    "searchQuery": "",
-    "caption": "",
-    "alternatives": [],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-lar-An43fv.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:38:49.900Z",
-    "lastUpdated": "2026-10-19T05:38:49.900Z"
+    "currentUrl": "/airo-assets/uploads/transform-this-shower-wall-tile-to-a-lar-An43fv.png"
   },
   "shower-builder/tile-white-pattern": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-tile-white-pattern-3017d3e0.jpg",
-    "searchQuery": "modern bathroom shower enclosure black frame",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:42:43.696Z",
-    "lastUpdated": "2026-10-19T05:42:43.696Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-tile-white-pattern-3017d3e0.jpg": "ki1f5sc11p_1792388549260_file_pVjGcI6L9m.jpg"
-    },
-    "uploadContentHash": "2cb23df6ff323a128ee0d903b87cc0ebf879fc7f05070d8d5aee97ed052e9ebb",
-    "caption": "modern bathroom shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/shower-builder-tile-white-pattern-3017d3e0.jpg"
   },
   "shower-builder/tile-gray-stream": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-tile-gray-stream-d718c44e.jpg",
-    "searchQuery": "modern bathroom shower enclosure black frame",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:42:48.790Z",
-    "lastUpdated": "2026-10-19T05:42:48.790Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-tile-gray-stream-d718c44e.jpg": "ki1f5sc11p_1792388549263_file_t1WUU6rWZ5.jpg"
-    },
-    "uploadContentHash": "f259e6bcaea1905e6c9d83f27bd98cf52f610bfd94ed8780e28af0c3351025f1",
-    "caption": "modern bathroom shower enclosure black frame"
+    "currentUrl": "/airo-assets/uploads/shower-builder-tile-gray-stream-d718c44e.jpg"
   },
   "shower-builder/tile-beige-veins": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-tile-beige-veins-de51ffd2.jpg",
-    "searchQuery": "modern marble bathroom shower enclosure",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T05:48:16.215Z",
-    "lastUpdated": "2026-10-19T05:48:16.215Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-tile-beige-veins-de51ffd2.jpg": "ki1f5sc11p_1792388549267_file_DHRwZ8B3Qb.jpg"
-    },
-    "uploadContentHash": "21f1b0c75a7b66a64950ac93f629b83dcf55c784635b33392b3f25309566c4a6",
-    "caption": "modern marble bathroom shower enclosure"
+    "currentUrl": "/airo-assets/uploads/shower-builder-tile-beige-veins-de51ffd2.jpg"
   },
   "imported/image-1792388997426": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/zoom-in-and-crop-tighter-on-the-shower-w-J713H0.png",
-    "searchQuery": "",
-    "alternatives": [
-      "/airo-assets/uploads/zoom-in-and-crop-tighter-on-the-shower-w-J713H0.png"
-    ],
-    "userModified": false,
-    "displacedFrom": "shower-builder/tile-carrara-light",
-    "createdAt": "2026-10-19T05:49:57.426Z",
-    "lastUpdated": "2026-10-19T05:49:57.426Z"
+    "currentUrl": "/airo-assets/uploads/zoom-in-and-crop-tighter-on-the-shower-w-J713H0.png"
   },
   "imported/image-1792389035117": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/keep-the-same-white-marble-shower-wall-s-1vxbzP.png",
-    "searchQuery": "",
-    "alternatives": [
-      "/airo-assets/uploads/keep-the-same-white-marble-shower-wall-s-1vxbzP.png"
-    ],
-    "userModified": false,
-    "displacedFrom": "shower-builder/tile-carrara-medium",
-    "createdAt": "2026-10-19T05:50:35.118Z",
-    "lastUpdated": "2026-10-19T05:50:35.118Z"
+    "currentUrl": "/airo-assets/uploads/keep-the-same-white-marble-shower-wall-s-1vxbzP.png"
   },
   "shower-builder/base-composite-slate-gray": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-base-composite-slate-gray-209ddc42.png",
-    "searchQuery": "gray rectangular shower tray base",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T23:58:00.305Z",
-    "lastUpdated": "2026-10-19T23:58:00.305Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-composite-slate-gray-209ddc42.png": "ki1f5sc11p_1792454254442_file_T9rKOGsjjj.png"
-    },
-    "uploadContentHash": "41441424dc185152eeef3a90ae5de94c630ba46d2ccf52d1d40ffc594f94e45b",
-    "caption": "gray rectangular shower tray base"
+    "currentUrl": "/airo-assets/uploads/shower-builder-base-composite-slate-gray-209ddc42.png"
   },
   "shower-builder/base-composite-slate-white": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-base-composite-slate-white-f6b640e1.png",
-    "searchQuery": "gray rectangular laptop base isolated",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T23:58:00.537Z",
-    "lastUpdated": "2026-10-19T23:58:00.537Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-composite-slate-white-f6b640e1.png": "ki1f5sc11p_1792454254444_file_nWRqVH7-s-.png"
-    },
-    "uploadContentHash": "8f1face56bb44cec55cfbfcb74173855ebb678e9fe5f69c152dabb7d9150e19d",
-    "caption": "gray rectangular laptop base isolated"
+    "currentUrl": "/airo-assets/uploads/shower-builder-base-composite-slate-white-f6b640e1.png"
   },
   "shower-builder/bathtub-ramsay": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-bathtub-ramsay-8f0874b9.png",
-    "searchQuery": "white rectangular bathtub with skirt",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T23:58:00.745Z",
-    "lastUpdated": "2026-10-19T23:58:00.745Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-bathtub-ramsay-8f0874b9.png": "ki1f5sc11p_1792454254445_file_vCJIrFETS4.png"
-    },
-    "uploadContentHash": "237625b237b27ab861cfc890d81491a4877022bc4db1886cdc529ada5345f39d",
-    "caption": "white rectangular bathtub with skirt"
+    "currentUrl": "/airo-assets/uploads/shower-builder-bathtub-ramsay-8f0874b9.png"
   },
   "shower-builder/bathtub-russell": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-bathtub-russell-9192dcdb.png",
-    "searchQuery": "white rectangular bathtub with apron",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T23:58:01.054Z",
-    "lastUpdated": "2026-10-19T23:58:01.054Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-bathtub-russell-9192dcdb.png": "ki1f5sc11p_1792454254445_file_hdh6Cvz2eP.png"
-    },
-    "uploadContentHash": "07bd5dec3400b13a3cd37f11219795289209de4a4391b6f9610636594b2fac23",
-    "caption": "white rectangular bathtub with apron"
+    "currentUrl": "/airo-assets/uploads/shower-builder-bathtub-russell-9192dcdb.png"
   },
   "shower-builder/bathtub-carl": {
     "mediaType": "image",
-    "currentUrl": "/airo-assets/uploads/shower-builder-bathtub-carl-f542fec8.png",
-    "searchQuery": "white rectangular bathtub isolated white background",
-    "alternatives": [],
-    "userModified": true,
-    "createdAt": "2026-10-19T23:58:05.243Z",
-    "lastUpdated": "2026-10-19T23:58:05.243Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-bathtub-carl-f542fec8.png": "ki1f5sc11p_1792454254446_file_-OLUKhOZiI.png"
-    },
-    "uploadContentHash": "0fbf110dd7fad2070c65091dfa0709f590ecc165a01eeb54b80a7524224fcdf4",
-    "caption": "white rectangular bathtub isolated white background"
+    "currentUrl": "/airo-assets/uploads/shower-builder-bathtub-carl-f542fec8.png"
   },
   "shower-builder/base-tile-floor-detail": {
     "mediaType": "generated",
-    "currentUrl": "/airo-assets/uploads/crop-and-zoom-in-tightly-to-show-only-th-2mKw8d.png",
-    "searchQuery": "modern bathroom shower enclosure glass doors",
-    "alternatives": [
-      "/airo-assets/uploads/shower-builder-base-tile-floor-detail-350a8f08.jpg",
-      "/airo-assets/uploads/crop-and-zoom-into-the-shower-floor-tile-GWEkFp.png"
-    ],
-    "aiGeneratedUrls": [
-      "/airo-assets/uploads/crop-and-zoom-in-tightly-to-show-only-th-2mKw8d.png",
-      "/airo-assets/uploads/crop-and-zoom-into-the-shower-floor-tile-GWEkFp.png"
-    ],
-    "userModified": true,
-    "createdAt": "2026-10-20T00:11:27.286Z",
-    "lastUpdated": "2026-10-20T00:13:26.716Z",
-    "uploadSources": {
-      "/airo-assets/uploads/shower-builder-base-tile-floor-detail-350a8f08.jpg": "ki1f5sc11p_1792455054238_file_p5kAhqux2s.jpg"
-    },
-    "uploadContentHash": "a17d900d023d636b7465f85adb16fb1d095402e28fbde73b847fa5db18f57407",
-    "caption": "modern bathroom shower enclosure glass doors"
+    "currentUrl": "/airo-assets/uploads/crop-and-zoom-in-tightly-to-show-only-th-2mKw8d.png"
   },
   "shower-builder/taps-chrome-rizon": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "chrome shower trim kit minimalist lever handle",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:31:49.210Z",
-    "lastUpdated": "2026-10-20T00:31:49.210Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-chrome-genta": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "chrome shower faucet modern single lever",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:31:50.011Z",
-    "lastUpdated": "2026-10-20T00:31:50.011Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-chrome-brantford": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1128346062",
-    "searchQuery": "chrome shower valve pressure balancing single handle",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:31:50.360Z",
-    "lastUpdated": "2026-10-20T00:31:50.360Z",
-    "gettyId": "1128346062"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1128346062"
   },
   "shower-builder/taps-chrome-align": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "chrome shower faucet straight architectural lever",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:31:50.583Z",
-    "lastUpdated": "2026-10-20T00:31:50.583Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-chrome-voss": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "chrome shower valve trim transitional lever",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:31:50.745Z",
-    "lastUpdated": "2026-10-20T00:31:50.745Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-brushed-nickel-brantford": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "brushed nickel shower valve single handle",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:09.646Z",
-    "lastUpdated": "2026-10-20T00:32:09.646Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-brushed-nickel-genta": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "brushed nickel shower faucet modern lever",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:09.895Z",
-    "lastUpdated": "2026-10-20T00:32:09.895Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-brushed-gold-voss": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2225125365",
-    "searchQuery": "gold shower valve transitional style luxury",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:10.273Z",
-    "lastUpdated": "2026-10-20T00:32:10.273Z",
-    "gettyId": "2225125365"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2225125365"
   },
   "shower-builder/taps-brushed-gold-rizon": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1635406917",
-    "searchQuery": "gold shower trim minimalist lever bathroom",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:10.533Z",
-    "lastUpdated": "2026-10-20T00:32:10.533Z",
-    "gettyId": "1635406917"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1635406917"
   },
   "shower-builder/taps-matte-black-rizon": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2240858690",
-    "searchQuery": "matte black shower trim minimalist handle",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:12.296Z",
-    "lastUpdated": "2026-10-20T00:32:12.296Z",
-    "gettyId": "2240858690"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2240858690"
   },
   "shower-builder/taps-brushed-nickel-voss": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/611211500",
-    "searchQuery": "brushed nickel shower valve transitional",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:14.362Z",
-    "lastUpdated": "2026-10-20T00:32:14.362Z",
-    "gettyId": "611211500"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/611211500"
   },
   "shower-builder/taps-matte-black-genta": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "matte black shower faucet modern lever",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:14.592Z",
-    "lastUpdated": "2026-10-20T00:32:14.592Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-matte-black-brantford": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1320130390",
-    "searchQuery": "matte black shower valve single handle bathroom",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:14.737Z",
-    "lastUpdated": "2026-10-20T00:32:14.737Z",
-    "gettyId": "1320130390"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1320130390"
   },
   "shower-builder/taps-brushed-nickel-align": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/1399048484",
-    "searchQuery": "brushed nickel shower faucet straight modern",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:15.013Z",
-    "lastUpdated": "2026-10-20T00:32:15.013Z",
-    "gettyId": "1399048484"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1399048484"
   },
   "shower-builder/taps-brushed-gold-genta": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2164377551",
-    "searchQuery": "brushed gold shower faucet modern lever luxury",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:15.425Z",
-    "lastUpdated": "2026-10-20T00:32:15.425Z",
-    "gettyId": "2164377551"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2164377551"
   },
   "shower-builder/taps-brushed-nickel-rizon": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2207612983",
-    "searchQuery": "brushed nickel shower trim minimalist",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:15.621Z",
-    "lastUpdated": "2026-10-20T00:32:15.621Z",
-    "gettyId": "2207612983"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2207612983"
   },
   "shower-builder/taps-matte-black-voss": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931",
-    "searchQuery": "matte black shower valve transitional style",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:17.186Z",
-    "lastUpdated": "2026-10-20T00:32:17.186Z",
-    "gettyId": "2227076931"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227076931"
   },
   "shower-builder/taps-matte-black-align": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2275591964",
-    "searchQuery": "matte black shower faucet architectural straight lever",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:17.789Z",
-    "lastUpdated": "2026-10-20T00:32:17.789Z",
-    "gettyId": "2275591964"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2275591964"
   },
   "shower-builder/taps-brushed-gold-align": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2151303358",
-    "searchQuery": "brushed gold shower faucet architectural straight",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:18.012Z",
-    "lastUpdated": "2026-10-20T00:32:18.012Z",
-    "gettyId": "2151303358"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2151303358"
   },
   "shower-builder/taps-brushed-gold-brantford": {
-    "orientations": "square",
-    "graphicalStyles": "photography",
-    "minimumSize": "large",
     "mediaType": "image",
-    "currentUrl": "https://img1.wsimg.com/isteam/getty/2225125365",
-    "searchQuery": "brushed gold shower valve luxury single handle",
-    "alternatives": [],
-    "userModified": false,
-    "createdAt": "2026-10-20T00:32:18.311Z",
-    "lastUpdated": "2026-10-20T00:32:18.311Z",
-    "gettyId": "2225125365"
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2225125365"
   }
 }
