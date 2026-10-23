@@ -2,7 +2,7 @@ import express, { type Express, type NextFunction, type Request, type Response }
 import { fileURLToPath } from "node:url";
 import { dirname, extname, join } from "node:path";
 import { readFileSync } from "node:fs";
-import { createMediaAssetsMiddleware } from "../../export-plugins/media-assets-plugin";
+import { createMediaAssetsMiddleware } from "../export-plugins/media-assets-plugin";
 
 // <api-imports>
 import health__get from "./api/health/GET";
