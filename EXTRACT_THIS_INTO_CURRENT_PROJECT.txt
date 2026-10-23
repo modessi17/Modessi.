@@ -1,0 +1,32 @@
+MODESSI — FULL BATHROOM BUILDER PROJECT
+
+THIS IS A COMPLETE PROJECT, NOT A SMALL UPDATE PATCH.
+
+Recommended clean install on Windows:
+
+1. Stop the current server in Command Prompt with Ctrl+C.
+2. Keep your old Modessi_Construction_Inc folder as a backup.
+3. Extract the ZIP once into Downloads.
+4. Open the extracted Modessi_Construction_Inc folder.
+5. Confirm you can see package.json in that folder.
+6. Click the File Explorer address bar, type cmd, and press Enter.
+7. In Command Prompt run:
+
+   npm install
+   npm run dev
+
+8. Open the local address shown, normally http://localhost:5173
+9. Press Ctrl+F5 in the browser for a full refresh.
+
+IMPORTANT: Do not put this folder inside another copy of itself. The correct
+folder is the one that directly contains package.json, src, and public.
+
+The complete builder includes the revised tile and floor catalogs, floating
+and floor-standing Shaker vanity choices, and realistic AI bathroom rendering.
+The final page automatically creates a full-room image and refreshes it after
+you change selections on the right. You can optionally upload a bathroom
+photo; the page asks before sending it to OpenAI for the rendering.
+
+Keep your existing .env file in the project root beside package.json. This ZIP
+does not include .env or any API key. OPENAI_API_KEY must be configured in the
+server environment for AI rendering.

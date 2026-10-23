@@ -1,0 +1,19 @@
+START HERE
+
+This ZIP contains the complete Modessi_Construction_Inc project, including
+updated shower and floor tile selections, floor-standing Shaker vanities, and
+automatic AI bathroom rendering that refreshes when selections change.
+
+Keep your existing .env file in the project root. It is intentionally not
+included in this ZIP.
+
+Open EXTRACT_THIS_INTO_CURRENT_PROJECT.txt and follow the clean-install steps.
+The project folder you run commands inside must directly contain package.json.
+
+Commands:
+
+  npm install
+  npm run dev
+
+Then open http://localhost:5173 and press Ctrl+F5.
+
